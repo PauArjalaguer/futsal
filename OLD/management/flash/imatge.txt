@@ -1,0 +1,8 @@
+Arxiu=../../images/dynamic/playersImages/15307_image_1489228127.jpg--
+1489228127Ample: 292 Alt: 433 Tipus= 2--
+Relacio: 0.6743648960739
+320x474
+GENERA IMATGE GRAN
+imagen original
+Resource id #14
+320x474

@@ -1,0 +1,5 @@
+2014-09-10 17:35:41 Imagecreatefromjpg ../newsImages/ccb56f.jpg
+2014-09-10 17:35:41 imagecreatetruecolor(240 , 120)
+2014-09-10 17:35:41 Imagecopyresized
+2014-09-10 17:35:41  imagecreatetruecolor
+2014-09-10 17:35:41  imagejpeg( ../newsImages/thumbs/ccb56f.jpg)

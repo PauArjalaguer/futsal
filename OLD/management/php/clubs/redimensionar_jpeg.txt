@@ -1,0 +1,6 @@
+2017-04-08 14:45:00 Imagecreatefromjpg ../../../webImages/clubsImages/663a75.jpg
+2017-04-08 14:45:00 imagecreatetruecolor(50 , 50)
+2017-04-08 14:45:00 Imagecopyresized
+2017-04-08 14:45:00  imagecreatetruecolor
+
+2017-04-08 14:45:00  imagejpeg( ../../../images/dynamic/teamsImages/micro/663a75.jpg)

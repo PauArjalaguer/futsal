@@ -1,0 +1,6 @@
+2017-03-28 20:47:22 Imagecreatefromjpg ../../../newsImages/881946.jpg
+2017-03-28 20:47:22 imagecreatetruecolor(50 , 50)
+2017-03-28 20:47:22 Imagecopyresized
+2017-03-28 20:47:22  imagecreatetruecolor
+
+2017-03-28 20:47:22  imagejpeg( ../../../newsImages/micro/881946.jpg)

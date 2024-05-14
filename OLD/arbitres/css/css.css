@@ -1,0 +1,69 @@
+body,html{font-family: arial; font-size:14px; padding:0; margin: 0; width:100%; height:100%; color:#ddd;background-color: #d0d0d0;}
+a{color:#ddd;}
+h1{font-size:16px;}
+h2{font-size:14px;}
+.pointer{cursor:pointer;}
+
+#left{width:240px; float:left; height:100%; background-image: url("../images/leftBackground.png"); padding:10px 0px 0 10px;display:table;}
+#loginInfo{text-align: right;padding-right:10px; margin-top:10px; font-size:11px;}
+
+#nav{ margin-top:40px;}
+#nav ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    margin-left:8px;
+    display: block;
+}
+#nav ul li{
+   
+    list-style: none;
+    padding-bottom: 0px;
+    text-align: right;
+    margin-bottom: 5px;}
+#nav ul li a.nav-top-item{
+    background: transparent url('../images/nav-top-item.png') center no-repeat; /* Background image for default color scheme - green */
+    width:227px; height:15px;
+    padding: 10px 5px 10px 0;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    display: block;
+    text-decoration: none; }
+/*#nav ul li:hover >ul{display:block; -webkit-transition: all 1s ease-in-out;
+    }*/
+
+#nav ul li a.current{ background: transparent url('../images/nav-top-item-current.png') center no-repeat; /* Background image for default color scheme - green */}
+
+#nav ul li ul{margin-top:10px; display:none;  }
+#nav ul li ul li{font-size:12px; padding:5px 0; padding-right:0px; cursor:pointer; text-align:left; display: block;}
+.listCurrent{background-image: url("../images/listCurrent.png"); background-position: center right; background-repeat: no-repeat; padding-left:5px; color:#999; }
+
+
+#right{float:left; height:100%; max-width: 1200px;background-image: url("../images/rightBackground.png"); background-position: left top; background-repeat: no-repeat; border-right:0px solid #f00; }
+
+#rightContent{padding:30px; color:#242424;}
+
+.contentBox{ }
+.contentBoxHeader{background-color: #e7e7e7; padding:5px; border:1px solid #a7a7a7;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;border-top-right-radius: 5px;border-top-left-radius: 5px;}
+.contentBoxHeader h2{padding-left:10px;}
+.contentBoxContent{padding:20px; border:1px solid #a7a7a7; border-top:0px;background-color: #fff;}
+.contentBoxSpacer{height:1px; border-top:1px solid #e7e7e7; border-bottom: 1px solid #a7a7a7;margin:5px 0; padding:0 5px; }
+
+.playersTable{width:100%;font-size:12px; list-style: none; }
+.playersTable th{background-color:#fff; padding:15px; font-size:14px; font-weight: bold; text-align:left; border-bottom: 1px solid #666;}
+.playersTable td{ padding:15px; font-size:14px;  text-align:left; vertical-align: top;}
+.playersTable .zebra1{background-color:#f3f3f3;}
+.playersTable .zebra2{background-color:#fff;}
+.playersTable .zebra_b1{background-color:#f9f9f9;border-top:1px solid #424242;}
+.playersTable .zebra_b2{background-color:#fcfcfc;border-top:1px solid #424242;}
+
+.playerNameEditContainer{ display:none;  }
+
+.newPlayerNameInput,.newPlayerNameButton,.playerNameEditInput,.playerNameEditButton {border:1px solid #e7e7e7; font-size:14px; padding:10px; width:500px;}
+.newPlayerNameButton,.playerNameEditButton{width:100px; background-color: #a7a7a7; }
+.resultInput{width:30px; text-align: center; border:1px solid #e7e7e7;font-size:14px; padding:5px;}
+.minuteInput{width:30px; height:10px; text-align: center; border:1px solid #f7e7e7;font-size:14px; padding:5px;}
+.cardInput{width:20px; height:10px; text-align: center; border:1px solid #f7e7e7;font-size:14px; padding:5px;}
+
+textarea{ width:95%;}

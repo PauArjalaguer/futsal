@@ -1,0 +1,1577 @@
+
+____________________________________________________________________________________________________________________
+25-07-2016 01:07:35 ---->Nom:IMG_2936.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpeNKN2R
+               >> Destí: ../../../images/dynamic/teamsImages/905.jpg
+               >> Mida:574
+               >> Extensió: JPG 1
+               >> IP:90.71.129.90
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/60025-07-2016 05:07:45 ---->Nom:ESPORTIU - copia cercle.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIf0le2
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: jpg 1
+               >> IP:89.131.72.99
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/60025-07-2016 05:07:14 ---->Nom:ESPORTIU - copia cercle.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqPWUJK
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: jpg 1
+               >> IP:89.131.72.99
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/60025-07-2016 05:07:33 ---->Nom:ESPORTIU - copia cercle.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpuWKeE6
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: jpg 1
+               >> IP:89.131.72.99
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:800
+Entrem a la funció de resize 600/20725-07-2016 06:07:09 ---->Nom:Sin tÃ­tulo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpi0nOZV
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:800
+               >> Extensió: png 1
+               >> IP:89.131.72.99
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:800
+Entrem a la funció de resize 600/20725-07-2016 06:07:14 ---->Nom:Sin tÃ­tulo.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4opi6H
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:800
+               >> Extensió: jpg 1
+               >> IP:89.131.72.99
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/40124-08-2016 01:08:12 ---->Nom:senior Bb.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIUZM7z
+               >> Destí: ../../../images/dynamic/teamsImages/705.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:37.14.247.19
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3512
+Entrem a la funció de resize 600/67529-08-2016 01:08:28 ---->Nom:ClubSaltFutbolSala.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpb0qEGI
+               >> Destí: ../../../images/dynamic/teamsImages/741.jpg
+               >> Mida:3512
+               >> Extensió: png 1
+               >> IP:217.126.4.101
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:796
+Entrem a la funció de resize 600/59931-08-2016 04:08:23 ---->Nom:fotocorreo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpbGVBkP
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:796
+               >> Extensió: png 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:796
+Entrem a la funció de resize 600/59931-08-2016 04:08:01 ---->Nom:fotocorreo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprOo5dx
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:796
+               >> Extensió: png 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/40002-09-2016 07:09:28 ---->Nom:Sin tÃ­tulo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpzUzbCd
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: png 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/40002-09-2016 07:09:30 ---->Nom:Sin tÃ­tulo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/php7MaIrb
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: png 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/40002-09-2016 07:09:36 ---->Nom:Sin tÃ­tulo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQDjXct
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: png 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:600
+Entrem a la funció de resize 600/40002-09-2016 07:09:19 ---->Nom:Sin tÃ­tulo.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQRRHYT
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:600
+               >> Extensió: jpg 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+02-09-2016 12:09:03 ---->Nom:Sin tÃ­tulo.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpiWT6pG
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:400
+               >> Extensió: jpg 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/44902-09-2016 12:09:15 ---->Nom:3.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpF7ud6V
+               >> Destí: ../../../images/dynamic/teamsImages/701.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:80.94.5.50
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:640
+Entrem a la funció de resize 600/106502-09-2016 03:09:49 ---->Nom:IMG_2966.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpUWNLhG
+               >> Destí: ../../../images/dynamic/teamsImages/906.jpg
+               >> Mida:640
+               >> Extensió: JPG 1
+               >> IP:83.48.4.229
+
+
+____________________________________________________________________________________________________________________
+02-09-2016 04:09:59 ---->Nom:Sin tÃ­tulo.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php7qYLOU
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:400
+               >> Extensió: jpg 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:5184
+Entrem a la funció de resize 600/44906-09-2016 08:09:17 ---->Nom:DSC07772.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpiJleLZ
+               >> Destí: ../../../images/dynamic/teamsImages/905.jpg
+               >> Mida:5184
+               >> Extensió: JPG 1
+               >> IP:213.143.48.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:5184
+Entrem a la funció de resize 600/44906-09-2016 08:09:56 ---->Nom:DSC07773.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpakI5YO
+               >> Destí: ../../../images/dynamic/teamsImages/905.jpg
+               >> Mida:5184
+               >> Extensió: JPG 1
+               >> IP:213.143.48.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/44907-09-2016 11:09:20 ---->Nom:14192136_10209343020885311_3967871730160459636_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAxJLm2
+               >> Destí: ../../../images/dynamic/teamsImages/113.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:37.15.118.123
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1700
+Entrem a la funció de resize 600/82508-09-2016 01:09:22 ---->Nom:jose.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpw6tg6g
+               >> Destí: ../../../images/dynamic/teamsImages/187.jpg
+               >> Mida:1700
+               >> Extensió: jpg 1
+               >> IP:83.37.33.29
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:884
+Entrem a la funció de resize 600/41710-09-2016 01:09:31 ---->Nom:PILAR FUTBOL SALA.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpitPufC
+               >> Destí: ../../../images/dynamic/teamsImages/627.jpg
+               >> Mida:884
+               >> Extensió: JPG 1
+               >> IP:81.34.71.127
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/33712-09-2016 09:09:45 ---->Nom:IMG-20160910-WA0006.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcxX8x3
+               >> Destí: ../../../images/dynamic/teamsImages/741.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:217.126.4.101
+
+
+____________________________________________________________________________________________________________________
+12-09-2016 09:09:44 ---->Nom:salt.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIiqusc
+               >> Destí: ../../../images/dynamic/teamsImages/741.jpg
+               >> Mida:206
+               >> Extensió: jpg 1
+               >> IP:217.126.4.101
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/40013-09-2016 03:09:09 ---->Nom:IMG-20151017-WA0000.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpD2Qgod
+               >> Destí: ../../../images/dynamic/teamsImages/460.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:83.55.155.145
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:640
+Entrem a la funció de resize 600/33815-09-2016 03:09:44 ---->Nom:FS LA SALUT.PNG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpGdQquV
+               >> Destí: ../../../images/dynamic/teamsImages/258.jpg
+               >> Mida:640
+               >> Extensió: PNG 1
+               >> IP:79.158.46.83
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1080
+Entrem a la funció de resize 600/60015-09-2016 04:09:33 ---->Nom:12238116_10207154616679362_3794120071406134123_o.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpq0tQjs
+               >> Destí: ../../../images/dynamic/teamsImages/258.jpg
+               >> Mida:1080
+               >> Extensió: jpg 1
+               >> IP:79.158.46.83
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45016-09-2016 07:09:13 ---->Nom:IMG-20160903-WA0015.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5YEMME
+               >> Destí: ../../../images/dynamic/teamsImages/798.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:176.83.205.78
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45019-09-2016 11:09:38 ---->Nom:IMG-20160917-WA0032.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqPUOcM
+               >> Destí: ../../../images/dynamic/teamsImages/929.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:90.171.221.88
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:796
+Entrem a la funció de resize 600/59919-09-2016 08:09:43 ---->Nom:fotocorreo.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAH6sgI
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:796
+               >> Extensió: png 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:796
+Entrem a la funció de resize 600/59919-09-2016 08:09:24 ---->Nom:fotocorreo - copia.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpmOJa6a
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:796
+               >> Extensió: png 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:706
+Entrem a la funció de resize 600/85320-09-2016 02:09:17 ---->Nom:IMG_20160920_140439.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1rVn7Y
+               >> Destí: ../../../images/dynamic/teamsImages/936.jpg
+               >> Mida:706
+               >> Extensió: png 1
+               >> IP:31.4.189.116
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:640
+Entrem a la funció de resize 600/51321-09-2016 03:09:31 ---->Nom:IMG-20151022-WA0005.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phppEnck8
+               >> Destí: ../../../images/dynamic/teamsImages/947.jpg
+               >> Mida:640
+               >> Extensió: jpg 1
+               >> IP:176.84.45.26
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2893
+Entrem a la funció de resize 600/41623-09-2016 08:09:34 ---->Nom:IMG_7339.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpI0pZVk
+               >> Destí: ../../../images/dynamic/teamsImages/915.jpg
+               >> Mida:2893
+               >> Extensió: JPG 1
+               >> IP:83.50.225.52
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/37523-09-2016 02:09:32 ---->Nom:_QLa2W-oUAs.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpuudJcN
+               >> Destí: ../../../images/dynamic/teamsImages/958.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:92.177.85.117
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3200
+Entrem a la funció de resize 600/60623-09-2016 06:09:26 ---->Nom:Escut%20FS%20GELIDA%20INDUSTRIAL.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpyvVHi5
+               >> Destí: ../../../images/dynamic/teamsImages/931.jpg
+               >> Mida:3200
+               >> Extensió: jpg 1
+               >> IP:88.2.35.174
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45024-09-2016 10:09:45 ---->Nom:Foto 24-9-16 10 42 50.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPlQWLW
+               >> Destí: ../../../images/dynamic/teamsImages/731.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:37.223.100.173
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1555
+Entrem a la funció de resize 600/42525-09-2016 12:09:25 ---->Nom:FOTO EQUIP VFS 2016-2017-----IMG-20160924-WA0001.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpJpRhmc
+               >> Destí: ../../../images/dynamic/teamsImages/503.jpg
+               >> Mida:1555
+               >> Extensió: jpg 1
+               >> IP:79.147.101.39
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/33525-09-2016 03:09:16 ---->Nom:IMG-20160925-WA0001.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOpgCgv
+               >> Destí: ../../../images/dynamic/teamsImages/180.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:83.59.185.43
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:803
+Entrem a la funció de resize 600/58826-09-2016 01:09:55 ---->Nom:IMG-20160611-WA0007.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpV6vOWv
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:803
+               >> Extensió: jpg 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2048
+Entrem a la funció de resize 600/39226-09-2016 08:09:07 ---->Nom:14466959_1607787192581593_2130901067_o.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpiWoSkJ
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:2048
+               >> Extensió: jpg 1
+               >> IP:88.5.193.117
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4151
+Entrem a la funció de resize 600/39726-09-2016 11:09:39 ---->Nom:DSC03176.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQ2i2Uo
+               >> Destí: ../../../images/dynamic/teamsImages/48.jpg
+               >> Mida:4151
+               >> Extensió: JPG 1
+               >> IP:178.156.124.2
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/33629-09-2016 12:09:39 ---->Nom:1014482_10204252705186065_3304449357993912174_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpRii6GO
+               >> Destí: ../../../images/dynamic/teamsImages/173.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:37.223.82.230
+
+
+____________________________________________________________________________________________________________________
+01-10-2016 01:10:47 ---->Nom:63507_175441219156675_5394212_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpo6KXpU
+               >> Destí: ../../../images/dynamic/teamsImages/735.jpg
+               >> Mida:306
+               >> Extensió: jpg 1
+               >> IP:95.62.110.165
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1436
+Entrem a la funció de resize 600/34301-10-2016 02:10:41 ---->Nom:foto.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpaHrOdF
+               >> Destí: ../../../images/dynamic/teamsImages/473.jpg
+               >> Mida:1436
+               >> Extensió: jpg 1
+               >> IP:37.29.191.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1920
+Entrem a la funció de resize 600/33702-10-2016 08:10:40 ---->Nom:14536677_1174102812627494_703323922_o.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php0Ik5zG
+               >> Destí: ../../../images/dynamic/teamsImages/907.jpg
+               >> Mida:1920
+               >> Extensió: jpg 1
+               >> IP:89.131.51.31
+
+
+____________________________________________________________________________________________________________________
+02-10-2016 10:10:49 ---->Nom:ESCUDO.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOgssaa
+               >> Destí: ../../../images/dynamic/teamsImages/735.jpg
+               >> Mida:100
+               >> Extensió: png 1
+               >> IP:95.62.110.165
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45003-10-2016 10:10:11 ---->Nom:juvenil a.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpCleKhR
+               >> Destí: ../../../images/dynamic/teamsImages/819.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:79.154.145.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45003-10-2016 10:10:42 ---->Nom:cadet.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpkwrrg8
+               >> Destí: ../../../images/dynamic/teamsImages/921.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:79.154.145.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45003-10-2016 10:10:14 ---->Nom:senior a.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpBRHfHw
+               >> Destí: ../../../images/dynamic/teamsImages/918.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:79.154.145.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45003-10-2016 10:10:48 ---->Nom:infantil.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpnsTQp2
+               >> Destí: ../../../images/dynamic/teamsImages/922.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:79.154.145.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45003-10-2016 10:10:03 ---->Nom:alevi.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpv4F76A
+               >> Destí: ../../../images/dynamic/teamsImages/923.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:79.154.145.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:16 ---->Nom:5_JuvenilB.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpucKKJ3
+               >> Destí: ../../../images/dynamic/teamsImages/920.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:11 ---->Nom:6_JuvenilA.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpFOXpmq
+               >> Destí: ../../../images/dynamic/teamsImages/819.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:10 ---->Nom:8_SeniorA.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpH8MpXp
+               >> Destí: ../../../images/dynamic/teamsImages/918.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:41 ---->Nom:4_Cadet.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php16lLDI
+               >> Destí: ../../../images/dynamic/teamsImages/921.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:40 ---->Nom:3_Infantil.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpP8Cw80
+               >> Destí: ../../../images/dynamic/teamsImages/922.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45003-10-2016 08:10:30 ---->Nom:2_AlevÃ­.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpUwHSgI
+               >> Destí: ../../../images/dynamic/teamsImages/923.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:80.58.250.91
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3641
+Entrem a la funció de resize 600/36704-10-2016 03:10:15 ---->Nom:Fs.Montgat.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4QjagK
+               >> Destí: ../../../images/dynamic/teamsImages/74.jpg
+               >> Mida:3641
+               >> Extensió: jpg 2
+               >> IP:81.184.0.61
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:701
+Entrem a la funció de resize 600/43405-10-2016 09:10:00 ---->Nom:Plantilla 15-16 futsal.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqntNDc
+               >> Destí: ../../../images/dynamic/teamsImages/743.jpg
+               >> Mida:701
+               >> Extensió: jpg 1
+               >> IP:176.85.199.8
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45009-10-2016 04:10:21 ---->Nom:IMG-20161009-WA0001.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOxGTnT
+               >> Destí: ../../../images/dynamic/teamsImages/901.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:84.78.18.13
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/38009-10-2016 08:10:39 ---->Nom:C.F.S.PALAFRUGELL 16-17.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php0a9i1i
+               >> Destí: ../../../images/dynamic/teamsImages/735.jpg
+               >> Mida:960
+               >> Extensió: jpg 4
+               >> IP:95.62.110.165
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:644
+Entrem a la funció de resize 600/38810-10-2016 03:10:44 ---->Nom:IMG_9818.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5Gho14
+               >> Destí: ../../../images/dynamic/teamsImages/54.jpg
+               >> Mida:644
+               >> Extensió: JPG 1
+               >> IP:176.83.240.141
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2048
+Entrem a la funció de resize 600/71810-10-2016 06:10:01 ---->Nom:Club Futbol Sala La Fuliola BolduÌ.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpSAAUP7
+               >> Destí: ../../../images/dynamic/teamsImages/930.jpg
+               >> Mida:2048
+               >> Extensió: jpg 1
+               >> IP:193.144.16.135
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2560
+Entrem a la funció de resize 600/36010-10-2016 11:10:17 ---->Nom:20161008_174027.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpY3U4YU
+               >> Destí: ../../../images/dynamic/teamsImages/908.jpg
+               >> Mida:2560
+               >> Extensió: jpg 1
+               >> IP:37.15.157.90
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:720
+Entrem a la funció de resize 600/45011-10-2016 01:10:21 ---->Nom:FB_IMG_1476183755074.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5qXQ62
+               >> Destí: ../../../images/dynamic/teamsImages/261.jpg
+               >> Mida:720
+               >> Extensió: jpg 1
+               >> IP:85.58.98.205
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45012-10-2016 01:10:51 ---->Nom:20160924_191156(0).jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpO9D93u
+               >> Destí: ../../../images/dynamic/teamsImages/170.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:81.61.157.161
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45012-10-2016 01:10:39 ---->Nom:20160924_173705.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9ztKs4
+               >> Destí: ../../../images/dynamic/teamsImages/187.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:81.61.157.161
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45012-10-2016 01:10:11 ---->Nom:20160924_160843.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpBen0zl
+               >> Destí: ../../../images/dynamic/teamsImages/199.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:81.61.157.161
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1024
+Entrem a la funció de resize 600/40113-10-2016 05:10:15 ---->Nom:29314286824_2b589dfebc_b.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phps3MamX
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:1024
+               >> Extensió: jpg 1
+               >> IP:147.83.201.98
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/39814-10-2016 09:10:45 ---->Nom:IMG-20161014-WA0000.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgMapGJ
+               >> Destí: ../../../images/dynamic/teamsImages/947.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:176.85.78.104
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/60017-10-2016 01:10:12 ---->Nom:14650604_184848925291345_3863671485546607151_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php53m2nh
+               >> Destí: ../../../images/dynamic/teamsImages/906.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:83.48.4.229
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/40020-10-2016 11:10:59 ---->Nom:14657513_1283777591686210_1443240622552704449_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpvPjkvv
+               >> Destí: ../../../images/dynamic/teamsImages/958.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:92.177.85.117
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4272
+Entrem a la funció de resize 600/40023-10-2016 09:10:41 ---->Nom:IMG_3538.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpDi1fTg
+               >> Destí: ../../../images/dynamic/teamsImages/787.jpg
+               >> Mida:4272
+               >> Extensió: JPG 1
+               >> IP:176.84.32.112
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4272
+Entrem a la funció de resize 600/40023-10-2016 09:10:54 ---->Nom:IMG_3538.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwgCt7U
+               >> Destí: ../../../images/dynamic/teamsImages/787.jpg
+               >> Mida:4272
+               >> Extensió: JPG 1
+               >> IP:176.84.32.112
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2268
+Entrem a la funció de resize 600/45028-10-2016 03:10:33 ---->Nom:7_SeniorB.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqLHKcI
+               >> Destí: ../../../images/dynamic/teamsImages/919.jpg
+               >> Mida:2268
+               >> Extensió: jpg 1
+               >> IP:83.55.157.198
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45030-10-2016 10:10:07 ---->Nom:20161026_185912 (1).jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpl5b8JV
+               >> Destí: ../../../images/dynamic/teamsImages/745.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:37.29.185.146
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45030-10-2016 10:10:09 ---->Nom:20161026_185912 (1).jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phphWtZYF
+               >> Destí: ../../../images/dynamic/teamsImages/514.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:37.29.185.146
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45030-10-2016 10:10:43 ---->Nom:IMG-20161029-WA0016.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpxDzBdd
+               >> Destí: ../../../images/dynamic/teamsImages/745.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:37.29.185.146
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45030-10-2016 10:10:33 ---->Nom:20161029_104444.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVPKQZV
+               >> Destí: ../../../images/dynamic/teamsImages/799.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:37.29.185.146
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:738
+Entrem a la funció de resize 600/64704-11-2016 02:11:21 ---->Nom:IMG_3401.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpRBoxx2
+               >> Destí: ../../../images/dynamic/teamsImages/822.jpg
+               >> Mida:738
+               >> Extensió: JPG 1
+               >> IP:88.8.252.197
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:740
+Entrem a la funció de resize 600/37905-11-2016 01:11:46 ---->Nom:FB_IMG_1476775108632.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php3uGBkW
+               >> Destí: ../../../images/dynamic/teamsImages/483.jpg
+               >> Mida:740
+               >> Extensió: jpg 1
+               >> IP:213.143.48.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1599
+Entrem a la funció de resize 600/44508-11-2016 10:11:08 ---->Nom:WhatsApp Image 2016-11-08 at 10.34.37.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpggTm1r
+               >> Destí: ../../../images/dynamic/teamsImages/218.jpg
+               >> Mida:1599
+               >> Extensió: jpeg 3
+               >> IP:62.83.226.237
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1280
+Entrem a la funció de resize 600/33713-11-2016 07:11:12 ---->Nom:SENIOR 1.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpz2HFkt
+               >> Destí: ../../../images/dynamic/teamsImages/334.jpg
+               >> Mida:1280
+               >> Extensió: jpg 1
+               >> IP:85.58.3.40
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45013-11-2016 07:11:57 ---->Nom:JUVENIL 1.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php92P0pP
+               >> Destí: ../../../images/dynamic/teamsImages/386.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:85.58.3.40
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1280
+Entrem a la funció de resize 600/33713-11-2016 07:11:30 ---->Nom:CADETE 2.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqLUztg
+               >> Destí: ../../../images/dynamic/teamsImages/420.jpg
+               >> Mida:1280
+               >> Extensió: jpg 1
+               >> IP:85.58.3.40
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1280
+Entrem a la funció de resize 600/33713-11-2016 07:11:06 ---->Nom:ALEVIN 3.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcmVpBW
+               >> Destí: ../../../images/dynamic/teamsImages/428.jpg
+               >> Mida:1280
+               >> Extensió: jpg 1
+               >> IP:85.58.3.40
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1280
+Entrem a la funció de resize 600/33713-11-2016 07:11:31 ---->Nom:BENJAMIN 1.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHbROBI
+               >> Destí: ../../../images/dynamic/teamsImages/442.jpg
+               >> Mida:1280
+               >> Extensió: jpg 1
+               >> IP:85.58.3.40
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1440
+Entrem a la funció de resize 600/36014-11-2016 02:11:04 ---->Nom:12we.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php46ZNOz
+               >> Destí: ../../../images/dynamic/teamsImages/209.jpg
+               >> Mida:1440
+               >> Extensió: jpg 1
+               >> IP:85.54.75.214
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4032
+Entrem a la funció de resize 600/45014-11-2016 03:11:23 ---->Nom:juvenil a.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpvHyJ4O
+               >> Destí: ../../../images/dynamic/teamsImages/616.jpg
+               >> Mida:4032
+               >> Extensió: jpg 1
+               >> IP:85.54.75.214
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1595
+Entrem a la funció de resize 600/40015-11-2016 03:11:37 ---->Nom:IMG_0006.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1T2Qs3
+               >> Destí: ../../../images/dynamic/teamsImages/827.jpg
+               >> Mida:1595
+               >> Extensió: JPG 1
+               >> IP:193.146.115.134
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45016-11-2016 01:11:27 ---->Nom:14956445_451480318356000_339740085589588073_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprGOVSn
+               >> Destí: ../../../images/dynamic/teamsImages/701.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:80.94.5.50
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4608
+Entrem a la funció de resize 600/45018-11-2016 07:11:51 ---->Nom:IMG_20161114_213132.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpvib8b9
+               >> Destí: ../../../images/dynamic/teamsImages/741.jpg
+               >> Mida:4608
+               >> Extensió: jpg 1
+               >> IP:62.83.176.163
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:771
+Entrem a la funció de resize 600/46618-11-2016 09:11:13 ---->Nom:FUTBOL SALA 2016 2017 WEB.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsosI9M
+               >> Destí: ../../../images/dynamic/teamsImages/917.jpg
+               >> Mida:771
+               >> Extensió: jpg 1
+               >> IP:80.58.250.86
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4128
+Entrem a la funció de resize 600/33719-11-2016 07:11:36 ---->Nom:FUTBOL SALA ALEVI 1.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsNyT21
+               >> Destí: ../../../images/dynamic/teamsImages/546.jpg
+               >> Mida:4128
+               >> Extensió: JPG 1
+               >> IP:85.53.228.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4128
+Entrem a la funció de resize 600/33719-11-2016 07:11:53 ---->Nom:FUTBOL SALA JUVENIL AE SALLENT.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpeQqO9P
+               >> Destí: ../../../images/dynamic/teamsImages/796.jpg
+               >> Mida:4128
+               >> Extensió: JPG 1
+               >> IP:85.53.228.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4128
+Entrem a la funció de resize 600/33719-11-2016 07:11:53 ---->Nom:FUTBOL SALA JUVENIL AE SALLENT.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpyOMhu2
+               >> Destí: ../../../images/dynamic/teamsImages/796.jpg
+               >> Mida:4128
+               >> Extensió: JPG 1
+               >> IP:85.53.228.100
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:37 ---->Nom:S0776153.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQA96fW
+               >> Destí: ../../../images/dynamic/teamsImages/305.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:33 ---->Nom:S0856186.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcmJPpz
+               >> Destí: ../../../images/dynamic/teamsImages/2.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:17 ---->Nom:S0886194.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHWWIPQ
+               >> Destí: ../../../images/dynamic/teamsImages/486.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:47 ---->Nom:S0886194.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpmMbt7m
+               >> Destí: ../../../images/dynamic/teamsImages/486.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:07 ---->Nom:S0856186.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6lN1DP
+               >> Destí: ../../../images/dynamic/teamsImages/2.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:09 ---->Nom:S0896198.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgqvC1o
+               >> Destí: ../../../images/dynamic/teamsImages/487.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:53 ---->Nom:S0916201.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpdv7um4
+               >> Destí: ../../../images/dynamic/teamsImages/944.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44919-11-2016 10:11:31 ---->Nom:S0936204.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpanwHQx
+               >> Destí: ../../../images/dynamic/teamsImages/543.jpg
+               >> Mida:3264
+               >> Extensió: JPG 1
+               >> IP:80.39.172.85
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4128
+Entrem a la funció de resize 600/33721-11-2016 10:11:22 ---->Nom:FUTBOL SALA SENIOR FEMENI AE SALLENT.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQPvEyP
+               >> Destí: ../../../images/dynamic/teamsImages/497.jpg
+               >> Mida:4128
+               >> Extensió: jpg 1
+               >> IP:88.12.9.229
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1000
+Entrem a la funció de resize 600/40021-11-2016 11:11:28 ---->Nom:received_1114998171882270.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVhFhWu
+               >> Destí: ../../../images/dynamic/teamsImages/901.jpg
+               >> Mida:1000
+               >> Extensió: jpeg 1
+               >> IP:84.78.17.183
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45021-11-2016 03:11:48 ---->Nom:IMG-20161119-WA0010.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phplTRfel
+               >> Destí: ../../../images/dynamic/teamsImages/936.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:31.4.207.143
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1599
+Entrem a la funció de resize 600/44522-11-2016 07:11:25 ---->Nom:IMG-20161030-WA0011.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6s1Jj1
+               >> Destí: ../../../images/dynamic/teamsImages/947.jpg
+               >> Mida:1599
+               >> Extensió: jpg 1
+               >> IP:176.84.37.30
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:4128
+Entrem a la funció de resize 600/33726-11-2016 06:11:08 ---->Nom:FUTBOL SALA CADET.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQ9e4VK
+               >> Destí: ../../../images/dynamic/teamsImages/760.jpg
+               >> Mida:4128
+               >> Extensió: JPG 1
+               >> IP:90.106.203.183
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1427
+Entrem a la funció de resize 600/36827-11-2016 04:11:27 ---->Nom:fotoEquip-CEBlanda-2016-17.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwrh5mM
+               >> Destí: ../../../images/dynamic/teamsImages/13.jpg
+               >> Mida:1427
+               >> Extensió: jpg 1
+               >> IP:88.24.52.71
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45029-11-2016 09:11:21 ---->Nom:IMG_9390 copy.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpNepcEd
+               >> Destí: ../../../images/dynamic/teamsImages/950.jpg
+               >> Mida:1600
+               >> Extensió: JPG 1
+               >> IP:83.43.92.215
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45030-11-2016 11:11:24 ---->Nom:WhatsApp Image 2016-11-23 at 22.54.02.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsZAPiQ
+               >> Destí: ../../../images/dynamic/teamsImages/742.jpg
+               >> Mida:1600
+               >> Extensió: jpeg 3
+               >> IP:84.88.128.144
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45030-11-2016 11:11:32 ---->Nom:WhatsApp Image 2016-11-22 at 23.15.48.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpxicB1R
+               >> Destí: ../../../images/dynamic/teamsImages/339.jpg
+               >> Mida:1600
+               >> Extensió: jpeg 3
+               >> IP:84.88.128.144
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1051
+Entrem a la funció de resize 600/35301-12-2016 06:12:20 ---->Nom:DNI David Beltran.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php256IQH
+               >> Destí: ../../../images/dynamic/teamsImages/241.jpg
+               >> Mida:1051
+               >> Extensió: jpeg 1
+               >> IP:95.19.189.187
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1328
+Entrem a la funció de resize 600/33703-12-2016 07:12:24 ---->Nom:IMG-20161105-WA0006.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpSfiQM0
+               >> Destí: ../../../images/dynamic/teamsImages/474.jpg
+               >> Mida:1328
+               >> Extensió: jpg 1
+               >> IP:90.106.134.212
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/39804-12-2016 12:12:42 ---->Nom:15219979_725139287650583_6132587523813485614_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqxfg8X
+               >> Destí: ../../../images/dynamic/teamsImages/958.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:92.177.85.117
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1280
+Entrem a la funció de resize 600/33719-12-2016 03:12:09 ---->Nom:benjamin 3.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpF07Kqq
+               >> Destí: ../../../images/dynamic/teamsImages/442.jpg
+               >> Mida:1280
+               >> Extensió: jpg 1
+               >> IP:85.58.3.50
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/39926-12-2016 08:12:29 ---->Nom:IMG-20161208-WA0004.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4jpwgZ
+               >> Destí: ../../../images/dynamic/teamsImages/744.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:176.83.33.68
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2048
+Entrem a la funció de resize 600/44903-01-2017 02:01:15 ---->Nom:15578247_162649087545775_8199433319313902981_o.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpXzBS5U
+               >> Destí: ../../../images/dynamic/teamsImages/61.jpg
+               >> Mida:2048
+               >> Extensió: jpg 1
+               >> IP:87.111.235.210
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:6016
+Entrem a la funció de resize 600/39816-01-2017 10:01:27 ---->Nom:DSC_0526.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6yv8Kk
+               >> Destí: ../../../images/dynamic/teamsImages/184.jpg
+               >> Mida:6016
+               >> Extensió: jpg 1
+               >> IP:81.184.112.28
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:6016
+Entrem a la funció de resize 600/39816-01-2017 10:01:55 ---->Nom:DSC_0510.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4R9jnY
+               >> Destí: ../../../images/dynamic/teamsImages/217.jpg
+               >> Mida:6016
+               >> Extensió: jpg 1
+               >> IP:81.184.112.28
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:6016
+Entrem a la funció de resize 600/39816-01-2017 10:01:25 ---->Nom:DSC_0496.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php7LukYC
+               >> Destí: ../../../images/dynamic/teamsImages/218.jpg
+               >> Mida:6016
+               >> Extensió: jpg 1
+               >> IP:81.184.112.28
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:6016
+Entrem a la funció de resize 600/39816-01-2017 10:01:50 ---->Nom:DSC_0481.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcfC61q
+               >> Destí: ../../../images/dynamic/teamsImages/956.jpg
+               >> Mida:6016
+               >> Extensió: jpg 1
+               >> IP:81.184.112.28
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45025-01-2017 01:01:32 ---->Nom:IMG-20161127-WA0003.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpMglA09
+               >> Destí: ../../../images/dynamic/teamsImages/460.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:83.43.123.110
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:2541
+Entrem a la funció de resize 600/46425-01-2017 10:01:02 ---->Nom:EQUIP_2.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phplhYORr
+               >> Destí: ../../../images/dynamic/teamsImages/325.jpg
+               >> Mida:2541
+               >> Extensió: jpg 1
+               >> IP:90.170.233.228
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3264
+Entrem a la funció de resize 600/44925-01-2017 10:01:59 ---->Nom:EQUIP_1.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpRxbnIa
+               >> Destí: ../../../images/dynamic/teamsImages/325.jpg
+               >> Mida:3264
+               >> Extensió: jpg 1
+               >> IP:90.170.233.228
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1024
+Entrem a la funció de resize 600/40928-01-2017 11:01:05 ---->Nom:31696109463_c38b5aa23e_b.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php39TCjo
+               >> Destí: ../../../images/dynamic/teamsImages/904.jpg
+               >> Mida:1024
+               >> Extensió: jpg 1
+               >> IP:81.184.162.54
+
+
+____________________________________________________________________________________________________________________
+29-01-2017 01:01:35 ---->Nom:15697593_10208269911092989_4479473949640330077_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4kNQCH
+               >> Destí: ../../../images/dynamic/teamsImages/243.jpg
+               >> Mida:526
+               >> Extensió: jpg 1
+               >> IP:80.28.175.80
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1000
+Entrem a la funció de resize 600/40030-01-2017 06:01:08 ---->Nom:received_1184856431563110.jpeg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9dpy5H
+               >> Destí: ../../../images/dynamic/teamsImages/901.jpg
+               >> Mida:1000
+               >> Extensió: jpeg 1
+               >> IP:213.143.49.71
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/39713-02-2017 01:02:41 ---->Nom:16603059_766871456810699_1633519514927754823_n.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpdsVd8s
+               >> Destí: ../../../images/dynamic/teamsImages/958.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:92.177.85.117
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1854
+Entrem a la funció de resize 600/44002-03-2017 04:03:07 ---->Nom:P1010305 copia3.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpzDbszm
+               >> Destí: ../../../images/dynamic/teamsImages/781.jpg
+               >> Mida:1854
+               >> Extensió: jpg 1
+               >> IP:83.47.120.89
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3648
+Entrem a la funció de resize 600/45002-03-2017 04:03:43 ---->Nom:P1010301.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwwO3zM
+               >> Destí: ../../../images/dynamic/teamsImages/290.jpg
+               >> Mida:3648
+               >> Extensió: JPG 1
+               >> IP:83.47.120.89
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3648
+Entrem a la funció de resize 600/45002-03-2017 04:03:22 ---->Nom:P1010299.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpLJ5p9C
+               >> Destí: ../../../images/dynamic/teamsImages/943.jpg
+               >> Mida:3648
+               >> Extensió: JPG 1
+               >> IP:83.47.120.89
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3648
+Entrem a la funció de resize 600/45002-03-2017 04:03:48 ---->Nom:P1010303.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOxahbA
+               >> Destí: ../../../images/dynamic/teamsImages/77.jpg
+               >> Mida:3648
+               >> Extensió: JPG 1
+               >> IP:83.47.120.89
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:3648
+Entrem a la funció de resize 600/45002-03-2017 04:03:29 ---->Nom:P1010306.JPG
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOK8ajA
+               >> Destí: ../../../images/dynamic/teamsImages/50.jpg
+               >> Mida:3648
+               >> Extensió: JPG 1
+               >> IP:83.47.120.89
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:640
+Entrem a la funció de resize 600/60014-03-2017 10:03:55 ---->Nom:FOTO FSCM A.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpefwGmM
+               >> Destí: ../../../images/dynamic/teamsImages/482.jpg
+               >> Mida:640
+               >> Extensió: jpg 1
+               >> IP:88.7.81.42
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:640
+Entrem a la funció de resize 600/60014-03-2017 10:03:22 ---->Nom:FOTO FSCM B.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9bpznw
+               >> Destí: ../../../images/dynamic/teamsImages/833.jpg
+               >> Mida:640
+               >> Extensió: jpg 1
+               >> IP:88.7.81.42
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/45016-03-2017 11:03:28 ---->Nom:IMG-20170316-WA0000.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpfeUJye
+               >> Destí: ../../../images/dynamic/teamsImages/482.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:176.83.170.86
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1599
+Entrem a la funció de resize 600/46216-03-2017 11:03:53 ---->Nom:IMG-20170316-WA0001.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpLOsQYx
+               >> Destí: ../../../images/dynamic/teamsImages/833.jpg
+               >> Mida:1599
+               >> Extensió: jpg 1
+               >> IP:176.83.170.86
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:1600
+Entrem a la funció de resize 600/44820-03-2017 07:03:41 ---->Nom:foto infantil A.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6FJLBV
+               >> Destí: ../../../images/dynamic/teamsImages/536.jpg
+               >> Mida:1600
+               >> Extensió: jpg 1
+               >> IP:88.12.9.229
+
+
+____________________________________________________________________________________________________________________
+27-03-2017 03:03:10 ---->Nom:IMG-20170308-WA0000.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpBozkZk
+               >> Destí: ../../../images/dynamic/teamsImages/257.jpg
+               >> Mida:299
+               >> Extensió: jpg 1
+               >> IP:37.15.0.178
+
+
+____________________________________________________________________________________________________________________
+
+L' arxiu fa més de 600px:960
+Entrem a la funció de resize 600/45001-04-2017 10:04:55 ---->Nom:17425975_10212597272117703_7445131982003567506_n[1].jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPfwBNx
+               >> Destí: ../../../images/dynamic/teamsImages/170.jpg
+               >> Mida:960
+               >> Extensió: jpg 1
+               >> IP:62.57.210.162
+
+
+____________________________________________________________________________________________________________________
+03-04-2017 12:04:05 ---->Nom:IMG_20160929_184342.png
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpbRIlGZ
+               >> Destí: ../../../images/dynamic/teamsImages/362.jpg
+               >> Mida:320
+               >> Extensió: png 1
+               >> IP:92.190.165.225
+

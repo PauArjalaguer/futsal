@@ -1,0 +1,671 @@
+a:2:{s:6:"expire";i:1516808328;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+    <head>
+        <meta charset="iso-8859-1">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Federaci&oacute; Catalana de Futbol Sala</title>
+        <link rel="stylesheet" href="http://v3.futsal.cat/css/foundation.css">
+        <link rel="stylesheet" href="http://v3.futsal.cat/css/foundation-icons.css">
+        <link rel="stylesheet" href="http://v3.futsal.cat/css/app.css">
+
+        <script src="https://use.fontawesome.com/93090f581b.js"></script>
+       
+        <link rel='stylesheet' id='ms-fonts'  href='//fonts.googleapis.com/css?family=Open+Sans Condensed:700,300|Open+Sans:800' type='text/css' media='all' />
+        <link rel='stylesheet' id='Open-Sans-Condensed-google-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C300italic%2C700&#038;subset=greek%2Ccyrillic-ext%2Ccyrillic%2Clatin%2Clatin-ext%2Cvietnamese%2Cgreek-ext&#038;ver=0fa92add012525b814a8dc2c48cfb26c' type='text/css' media='all' />
+        <link rel='stylesheet' id='Open-Sans-google-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=greek%2Ccyrillic-ext%2Ccyrillic%2Clatin%2Clatin-ext%2Cvietnamese%2Cgreek-ext&#038;ver=0fa92add012525b814a8dc2c48cfb26c' type='text/css' media='all' />
+        <script src="http://v3.futsal.cat/js/vendor/jquery.js"></script>
+        <script src="http://v3.futsal.cat/js/vendor/what-input.js"></script>
+        <script src="http://v3.futsal.cat/js/vendor/foundation.js"></script>
+        <script src="http://v3.futsal.cat/js/app.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="https://adminlte.io/themes/AdminLTE/plugins/timepicker/bootstrap-timepicker.min.css">
+        <script src="https://adminlte.io/themes/AdminLTE//plugins/timepicker/bootstrap-timepicker.min.js"></script>
+        <link rel="stylesheet" href="https://adminlte.io/themes/AdminLTE/bower_components/select2/dist/css/select2.min.css">
+        <link rel="stylesheet" href="https://zurb.com/playground/projects/responsive-tables/responsive-tables.css">
+       
+    </head>
+    <body>
+                <div class="expanded row " id="logos_s">
+            <div class="large-16 medium-16 colums">
+                <div class="row collapse" >
+                    <div id="address" class="large-4 medium-4 columns" style='background-color: transparent; '  ><strong>Federaci&oacute; Catalana de Futbol Sala</strong><br /> C/Guipuscoa 23-25 5e pis 08018 Barcelona 
+                        <br />Tel. 93 244 44 03<br /> Fax 93 247 34 83</div>
+                    <div id="logo" class="large-4 medium-4  columns" align="center" style='background-color: transparent;' >
+                        <img width=150 src="http://v3.futsal.cat/content/images/logos/logo_main_244.png" />
+                    </div>
+                    <div id="socialLogos" class="large-4 medium-4 columns" style='background-color: transparent;' >
+                        <ul>
+                            <li><i class="fi-social-facebook large"></i></li>
+                            <li><i class="fi-social-twitter large"></i></li>
+                            <li><i class="fi-mail large"></i></li>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+                        <button class="menu-icon" type="button" data-toggle></button>
+                        <div class="title-bar-title">Menu</div>
+                    </div>
+                    <div id="main-menu" >
+    <ul class="vertical dropdown menu" data-dropdown-menu>
+        <li><a href="http://v3.futsal.cat/"><span>Inici</span></a></li>
+        <li><a  href="http://v3.futsal.cat/clubs">Clubs</a></li>
+        <li><a class="actiu" href="http://v3.futsal.cat/competicio">Competicions</a></li>
+       <!--<li><a  href="#">Junta</a></li>-->
+        <li><a  href="http://v3.futsal.cat/noticies">Not&iacute;cies</a></li>
+        <li><a href="http://v3.futsal.cat/documentacio">Documentaci&oacute;</a></li>
+        <li><a  href="#">Premsa</a></li>
+        <li><a href="http://v3.futsal.cat/admin/login"><i style='font-size:19px; vertical-align: text-top;' class="fi-lock"></i></a></li>
+    </ul>
+</div>                </div>
+            </div>
+        </div>
+        <div class="row" id="content" style='padding:12px;'><div  class="large-12 medium-12 columns">
+        <div class="row">
+            <h2>Nacional Catalana Grup A            </h2>
+            <ul class="tabs" data-tabs id="example-tabs">
+                <li class="tabs-title is-active"><a  class="tabAactive"href="#panel1" aria-selected="true">Resultats</a></li>
+                <li class="tabs-title"><a href="#panel2">Classificaci&oacute;</a></li>
+                <li class="tabs-title"><a href="#panel4">Sancions</a></li>
+                <li class="tabs-title"><a href="#panel3">Golejadors</a></li>
+                <li class="tabs-title"><a href="#panel5">Propers partits</a></li>
+            </ul>
+
+            <div class="tabs-content" data-tabs-content="example-tabs">
+                <div class="tabs-panel is-active" id="panel1">
+                    <select id='competitionLeagueRoundSelect'>
+                        <option>Selecciona jornada</option>
+			<option value="13092" selected>Jornada 1</option>
+			<option value="13093" >Jornada 2</option>
+			<option value="13094" >Jornada 3</option>
+			<option value="13095" >Jornada 4</option>
+			<option value="13096" >Jornada 5</option>
+			<option value="13097" >Jornada 6</option>
+			<option value="13098" >Jornada 7</option>
+			<option value="13099" >Jornada 8</option>
+			<option value="13100" >Jornada 9</option>
+			<option value="13101" >Jornada 10</option>
+			<option value="13102" >Jornada 11</option>
+			<option value="13103" >Jornada 12</option>
+			<option value="13104" >Jornada 13</option>
+			<option value="13105" >Jornada 14</option>
+			<option value="13106" >Jornada 15</option>
+			<option value="13107" >Jornada 16</option>
+			<option value="13108" >Jornada 17</option>
+			<option value="13109" >Jornada 18</option>
+			<option value="13110" >Jornada 19</option>
+			<option value="13111" >Jornada 20</option>
+			<option value="13112" >Jornada 21</option>
+			<option value="13113" >Jornada 22</option>
+			<option value="13114" >Jornada 23</option>
+			<option value="13115" >Jornada 24</option>
+			<option value="13116" >Jornada 25</option>
+			<option value="13117" >Jornada 26</option>                    </select>
+                    <table>
+                        
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'><img src="http://v3.futsal.cat/webImages/clubsImages/1443725741.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'>C.E.F.S. Granollers</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>3 - 0</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'>C.F.S. Montsant Sala5</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'><img src="http://v3.futsal.cat/webImages/clubsImages/escutMontsant.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Municipal De Can Bassa</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2Fcaterina+De+Albert+15%2C+Granollers'>C/caterina De Albert 15, Granollers</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 23-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67895-cefs-granollerscfs-montsant-sala5'>Veure acta</a></td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'><img src="http://v3.futsal.cat/webImages/clubsImages/1441545063.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'>Club Esportiu Sagrerenc</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>2 - 3</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'>A.c.e. Sansur </a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'><img src="http://v3.futsal.cat/webImages/clubsImages/1435838419.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PISTA POLIESPORTIVA SAGRERENC</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2FHonduras%2C+2+Barcelona'>C/Honduras, 2 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 23-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67896-club-esportiu-sagrerencace-sansur'>Veure acta</a></td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'><img src="http://v3.futsal.cat/webImages/clubsImages/EFSRipoll.png" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'>E.F.S. Ripoll</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>3 - 2</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'>Padre Damian Sagrados Corazones</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'><img src="http://v3.futsal.cat/webImages/clubsImages/escut_pd.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Centre de Tecnificació Esportiva l'Avellaneda</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=17500+Ripoll%2C+Girona'>17500 Ripoll, Girona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 23-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67897-efs-ripollpadre-damian-sagrados-corazones'>Veure acta</a></td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'><img src="http://v3.futsal.cat/webImages/clubsImages/1410986319.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'>F.s. Borges</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>4 - 4</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'>F.s. Unión Llagostense MecMan</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'><img src="http://v3.futsal.cat/webImages/clubsImages/escutLlagostense.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Francesc MaciÀ</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Av.+Francesc+Maci%C3%80+32-34%2Cles+Borges+Blanques'>Av. Francesc MaciÀ 32-34,les Borges Blanques</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 23-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67898-fs-borgesfs-uni&atilde;&sup3;n-llagostense-mecman'>Veure acta</a></td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'><img src="http://v3.futsal.cat/webImages/clubsImages/escutTiana.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'>A.e. Tiana</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>4 - 3</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'>Futsal Dante</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'><img src="http://v3.futsal.cat/webImages/clubsImages/escutDante.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Municipal De Tiana</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2F+Eduard+Fontsere+13+%2Ctiana'>C/ Eduard Fontsere 13 ,tiana</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 23-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67899-ae-tianafutsal-dante'>Veure acta</a></td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'><img src="http://v3.futsal.cat/webImages/clubsImages/1378880836.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'>C.F.S. Clot</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>1 - 1</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'>E.F.S. Alta Segarra</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'><img src="http://v3.futsal.cat/webImages/clubsImages/1410264167.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>CEM Bac de Roda</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Rambla+de+Guip%C3%BAscoa%2C+25%2C+08018+Barcelona'>Rambla de Guipúscoa, 25, 08018 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-09-2017<br />
+		<i class="fa fa-info-circle" aria-hidden="true"></i> <a href='http://http://v3.futsal.cat/competicio/acta/67900-cfs-clotefs-alta-segarra'>Veure acta</a></td>
+	</tr>                    </table>
+                </div>
+                <div class="tabs-panel" id="panel2">
+                    <select id='competitionLeagueRoundSelectInClassification'>
+                        <option>Selecciona jornada</option>
+                        
+		\†<option value="13092" selected>Jornada 1</option>
+		\†<option value="13093" >Jornada 2</option>
+		\†<option value="13094" >Jornada 3</option>
+		\†<option value="13095" >Jornada 4</option>
+		\†<option value="13096" >Jornada 5</option>
+		\†<option value="13097" >Jornada 6</option>
+		\†<option value="13098" >Jornada 7</option>
+		\†<option value="13099" >Jornada 8</option>
+		\†<option value="13100" >Jornada 9</option>
+		\†<option value="13101" >Jornada 10</option>
+		\†<option value="13102" >Jornada 11</option>
+		\†<option value="13103" >Jornada 12</option>
+		\†<option value="13104" >Jornada 13</option>
+		\†<option value="13105" >Jornada 14</option>
+		\†<option value="13106" >Jornada 15</option>
+		\†<option value="13107" >Jornada 16</option>
+		\†<option value="13108" >Jornada 17</option>
+		\†<option value="13109" >Jornada 18</option>
+		\†<option value="13110" >Jornada 19</option>
+		\†<option value="13111" >Jornada 20</option>
+		\†<option value="13112" >Jornada 21</option>
+		\†<option value="13113" >Jornada 22</option>
+		\†<option value="13114" >Jornada 23</option>
+		\†<option value="13115" >Jornada 24</option>
+		\†<option value="13116" >Jornada 25</option>
+		\†<option value="13117" >Jornada 26</option>                    </select>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th colspan="2">P</th>
+                                <th colspan=2>Equip</th>
+                                <th style='text-align:center;' >Pts</th>
+                                <th style='text-align:center;'>J</th>
+                                <th style='text-align:center;'>G</th>
+                                <th style='text-align:center;'>E</th>
+                                <th style='text-align:center;'>P</th>
+                                <th style='text-align:center;'>GF</th>
+                                <th style='text-align:center;'>GC</th>
+                            </tr>
+                        </thead>
+                        <tbody>				
+                            </tbody>
+                    </table>
+                </div>
+                <div class="tabs-panel" id="panel3">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th >Gols</th>
+                                <th style='text-align:left;' colspan=2>Jugador</th>
+                                <th >Equip</th>
+                                <th style='text-align:center;'>Partits <br />jugats</th>
+                                <th style='text-align:center;'>Gols per <br />partit</th>
+                            </tr>
+                        </thead>
+                        <tbody>                        </tbody>
+                    </table>
+                </div>
+                <div class="tabs-panel" id="panel4">
+                    <select id='competitionLeagueRoundSelectInBans'>
+                        <option>Selecciona jornada</option>
+                        
+		<option value="13092" selected>Jornada 1</option>
+		<option value="13093" >Jornada 2</option>
+		<option value="13094" >Jornada 3</option>
+		<option value="13095" >Jornada 4</option>
+		<option value="13096" >Jornada 5</option>
+		<option value="13097" >Jornada 6</option>
+		<option value="13098" >Jornada 7</option>
+		<option value="13099" >Jornada 8</option>
+		<option value="13100" >Jornada 9</option>
+		<option value="13101" >Jornada 10</option>
+		<option value="13102" >Jornada 11</option>
+		<option value="13103" >Jornada 12</option>
+		<option value="13104" >Jornada 13</option>
+		<option value="13105" >Jornada 14</option>
+		<option value="13106" >Jornada 15</option>
+		<option value="13107" >Jornada 16</option>
+		<option value="13108" >Jornada 17</option>
+		<option value="13109" >Jornada 18</option>
+		<option value="13110" >Jornada 19</option>
+		<option value="13111" >Jornada 20</option>
+		<option value="13112" >Jornada 21</option>
+		<option value="13113" >Jornada 22</option>
+		<option value="13114" >Jornada 23</option>
+		<option value="13115" >Jornada 24</option>
+		<option value="13116" >Jornada 25</option>
+		<option value="13117" >Jornada 26</option>                    </select>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th colspan=2>Jugador</th>
+                                <th >Equip</th>
+                                <th >Sanci&oacute;</th>
+                            </tr>
+                        </thead>
+                        <tbody>                        </tbody>
+                    </table>
+                </div>
+
+                <div class="tabs-panel" id="panel5">
+                    <table>
+                        
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'><img src="http://v3.futsal.cat/webImages/clubsImages/escutLlagostense.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'>F.s. Unión Llagostense MecMan</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'>F.s. Borges</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'><img src="http://v3.futsal.cat/webImages/clubsImages/1410986319.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Complex esportiu municipal El Turó</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Carrer+de+Joaquim+Blume%2C+2%2C+08120+La+Llagosta%2C+Barcelona'>Carrer de Joaquim Blume, 2, 08120 La Llagosta, Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 27-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'><img src="http://v3.futsal.cat/webImages/clubsImages/1435838419.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'>A.c.e. Sansur </a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'>Club Esportiu Sagrerenc</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'><img src="http://v3.futsal.cat/webImages/clubsImages/1441545063.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Espanya Industrial</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Parc+Espanya+Industrial+%2Cbarcelona'>Parc Espanya Industrial ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 27-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'><img src="http://v3.futsal.cat/webImages/clubsImages/1410264167.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'>E.F.S. Alta Segarra</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'>C.F.S. Clot</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'><img src="http://v3.futsal.cat/webImages/clubsImages/1378880836.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Municipal De Calaf</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2F+Mas+Domenech+S%2Fn%2C+Calaf'>C/ Mas Domenech S/n, Calaf</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 27-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'><img src="http://v3.futsal.cat/webImages/clubsImages/escut_pd.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'>Padre Damian Sagrados Corazones</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'>E.F.S. Ripoll</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'><img src="http://v3.futsal.cat/webImages/clubsImages/EFSRipoll.png" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Padre DamiÁn Sagrados Corazones</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Av.+Vallviderera+10+%2Cbarcelona'>Av. Vallviderera 10 ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 27-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'><img src="http://v3.futsal.cat/webImages/clubsImages/escutMontsant.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'>C.F.S. Montsant Sala5</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'>C.E.F.S. Granollers</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'><img src="http://v3.futsal.cat/webImages/clubsImages/1443725741.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Cotxeres BorbÓ</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2Framon+Albo+41-57+%2Cbarcelona'>C/ramon Albo 41-57 ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 28-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'><img src="http://v3.futsal.cat/webImages/clubsImages/escutDante.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'>Futsal Dante</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />14</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'>A.e. Tiana</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'><img src="http://v3.futsal.cat/webImages/clubsImages/escutTiana.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Creueta Del Coll</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Carrer+De+Castellter%C3%A7ol%2C+13%0A08023+Barcelona'>Carrer De Castellterçol, 13
+08023 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 28-01-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'><img src="http://v3.futsal.cat/webImages/clubsImages/EFSRipoll.png" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'>E.F.S. Ripoll</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'>F.s. Borges</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'><img src="http://v3.futsal.cat/webImages/clubsImages/1410986319.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Centre de Tecnificació Esportiva l'Avellaneda</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=17500+Ripoll%2C+Girona'>17500 Ripoll, Girona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 03-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'><img src="http://v3.futsal.cat/webImages/clubsImages/1441545063.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'>Club Esportiu Sagrerenc</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'>Padre Damian Sagrados Corazones</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'><img src="http://v3.futsal.cat/webImages/clubsImages/escut_pd.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PISTA POLIESPORTIVA SAGRERENC</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2FHonduras%2C+2+Barcelona'>C/Honduras, 2 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'><img src="http://v3.futsal.cat/webImages/clubsImages/EFSRipoll.png" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'>E.F.S. Ripoll</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'>F.s. Unión Llagostense MecMan</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'><img src="http://v3.futsal.cat/webImages/clubsImages/escutLlagostense.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Centre de Tecnificació Esportiva l'Avellaneda</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=17500+Ripoll%2C+Girona'>17500 Ripoll, Girona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'><img src="http://v3.futsal.cat/webImages/clubsImages/escutTiana.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'>A.e. Tiana</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/331-fs-porqueres'>F.S. Porqueres</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/331-fs-porqueres'><img src="http://v3.futsal.cat/webImages/clubsImages/1411647940.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Municipal De Tiana</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2F+Eduard+Fontsere+13+%2Ctiana'>C/ Eduard Fontsere 13 ,tiana</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'><img src="http://v3.futsal.cat/webImages/clubsImages/1410986319.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'>F.s. Borges</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'>Futsal Dante</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'><img src="http://v3.futsal.cat/webImages/clubsImages/escutDante.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Francesc MaciÀ</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Av.+Francesc+Maci%C3%80+32-34%2Cles+Borges+Blanques'>Av. Francesc MaciÀ 32-34,les Borges Blanques</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'><img src="http://v3.futsal.cat/webImages/clubsImages/1443725741.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'>C.E.F.S. Granollers</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'>E.F.S. Alta Segarra</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'><img src="http://v3.futsal.cat/webImages/clubsImages/1410264167.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Municipal De Can Bassa</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2Fcaterina+De+Albert+15%2C+Granollers'>C/caterina De Albert 15, Granollers</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'><img src="http://v3.futsal.cat/webImages/clubsImages/1379359241.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'>BetàniaPatmos BCN</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'>C.F.S. Montsant Sala5</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'><img src="http://v3.futsal.cat/webImages/clubsImages/escutMontsant.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Universitat De Barcelona</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Avinguda+Diagonal+695-701%2C+'>Avinguda Diagonal 695-701, </a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 10-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'><img src="http://v3.futsal.cat/webImages/clubsImages/1378880836.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'>C.F.S. Clot</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />15</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'>A.c.e. Sansur </a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'><img src="http://v3.futsal.cat/webImages/clubsImages/1435838419.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>CEM Bac de Roda</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Rambla+de+Guip%C3%BAscoa%2C+25%2C+08018+Barcelona'>Rambla de Guipúscoa, 25, 08018 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 11-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'><img src="http://v3.futsal.cat/webImages/clubsImages/escutLlagostense.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/111-fs-uni&atilde;&sup3;n-llagostense-mecman'>F.s. Unión Llagostense MecMan</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'>Club Esportiu Sagrerenc</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'><img src="http://v3.futsal.cat/webImages/clubsImages/1441545063.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Complex esportiu municipal El Turó</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Carrer+de+Joaquim+Blume%2C+2%2C+08120+La+Llagosta%2C+Barcelona'>Carrer de Joaquim Blume, 2, 08120 La Llagosta, Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 17-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'><img src="http://v3.futsal.cat/webImages/clubsImages/1435838419.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'>A.c.e. Sansur </a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'>C.E.F.S. Granollers</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'><img src="http://v3.futsal.cat/webImages/clubsImages/1443725741.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Espanya Industrial</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Parc+Espanya+Industrial+%2Cbarcelona'>Parc Espanya Industrial ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 17-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'><img src="http://v3.futsal.cat/webImages/clubsImages/1410264167.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'>E.F.S. Alta Segarra</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'>BetàniaPatmos BCN</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'><img src="http://v3.futsal.cat/webImages/clubsImages/1379359241.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Municipal De Calaf</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2F+Mas+Domenech+S%2Fn%2C+Calaf'>C/ Mas Domenech S/n, Calaf</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 17-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'><img src="http://v3.futsal.cat/webImages/clubsImages/escutMontsant.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'>C.F.S. Montsant Sala5</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'>A.e. Tiana</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'><img src="http://v3.futsal.cat/webImages/clubsImages/escutTiana.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Cotxeres BorbÓ</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2Framon+Albo+41-57+%2Cbarcelona'>C/ramon Albo 41-57 ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 18-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'><img src="http://v3.futsal.cat/webImages/clubsImages/escut_pd.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'>Padre Damian Sagrados Corazones</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />16</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'>C.F.S. Clot</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/361-cfs-clot'><img src="http://v3.futsal.cat/webImages/clubsImages/1378880836.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Padre DamiÁn Sagrados Corazones</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Av.+Vallviderera+10+%2Cbarcelona'>Av. Vallviderera 10 ,barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 18-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'><img src="http://v3.futsal.cat/webImages/clubsImages/escutTiana.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/50-ae-tiana'>A.e. Tiana</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'>E.F.S. Alta Segarra</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/473-efs-alta-segarra'><img src="http://v3.futsal.cat/webImages/clubsImages/1410264167.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Poliesportiu Municipal De Tiana</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2F+Eduard+Fontsere+13+%2Ctiana'>C/ Eduard Fontsere 13 ,tiana</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'><img src="http://v3.futsal.cat/webImages/clubsImages/1441545063.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/918-club-esportiu-sagrerenc'>Club Esportiu Sagrerenc</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'>E.F.S. Ripoll</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/12-efs-ripoll'><img src="http://v3.futsal.cat/webImages/clubsImages/EFSRipoll.png" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PISTA POLIESPORTIVA SAGRERENC</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2FHonduras%2C+2+Barcelona'>C/Honduras, 2 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'><img src="http://v3.futsal.cat/webImages/clubsImages/1410986319.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/490-fs-borges'>F.s. Borges</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/331-fs-porqueres'>F.S. Porqueres</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/331-fs-porqueres'><img src="http://v3.futsal.cat/webImages/clubsImages/1411647940.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Francesc MaciÀ</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Av.+Francesc+Maci%C3%80+32-34%2Cles+Borges+Blanques'>Av. Francesc MaciÀ 32-34,les Borges Blanques</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'><img src="http://v3.futsal.cat/webImages/clubsImages/1443725741.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/170-cefs-granollers'>C.E.F.S. Granollers</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'>Padre Damian Sagrados Corazones</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/179-padre-damian-sagrados-corazones'><img src="http://v3.futsal.cat/webImages/clubsImages/escut_pd.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Municipal De Can Bassa</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=C%2Fcaterina+De+Albert+15%2C+Granollers'>C/caterina De Albert 15, Granollers</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'><img src="http://v3.futsal.cat/webImages/clubsImages/1379359241.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/289-bet&atilde;&nbsp;niapatmos-bcn'>BetàniaPatmos BCN</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'>A.c.e. Sansur </a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/46-ace-sansur'><img src="http://v3.futsal.cat/webImages/clubsImages/1435838419.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>PavellÓ Universitat De Barcelona</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Avinguda+Diagonal+695-701%2C+'>Avinguda Diagonal 695-701, </a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 24-02-2018
+		</td>
+	</tr>
+	<tr>
+		<td><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'><img src="http://v3.futsal.cat/webImages/clubsImages/escutDante.jpg" width=60 ></td>
+		<td align=right><a href='http://v3.futsal.cat/clubs/equip/209-futsal-dante'>Futsal Dante</a></td>
+		<td style='background-color:#828282; color:#fff; font-size:20px; font-weight:bold; text-align:center;'>Jornada <br />17</td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'>C.F.S. Montsant Sala5</a></td>
+		<td><a href='http://v3.futsal.cat/clubs/equip/206-cfs-montsant-sala5'><img src="http://v3.futsal.cat/webImages/clubsImages/escutMontsant.jpg" width=60></a></td>
+		<td style='border-left:1px solid #626262;'>
+			<i class="fa fa-map-o" aria-hidden="true"></i> <span style='text-transform:uppercase; font-weight:bold;'>Creueta Del Coll</span><br />
+			<i class="fa fa-map-marker" aria-hidden="true"></i> <a target=_blank href='http://maps.google.com/?q=Carrer+De+Castellter%C3%A7ol%2C+13%0A08023+Barcelona'>Carrer De Castellterçol, 13
+08023 Barcelona</a><br />
+			<i class="fa fa-clock-o" aria-hidden="true"></i> 25-02-2018
+		</td>
+	</tr>                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+
+    $(function () {
+        // bind change event to select
+        $('#competitionLeagueRoundSelect').on('change', function () {
+            var url = $(this).val(); // get selected value
+            if (url) { // require a URL
+                window.location = "http://v3.futsal.cat/competicio/lliga/412/jornada/" + url + "/resultats"; // redirect
+            }
+            return false;
+        });
+        $('#competitionLeagueRoundSelectInClassification').on('change', function () {
+            var url = $(this).val(); // get selected value
+            if (url) { // require a URL
+                window.location = "http://v3.futsal.cat/competicio/lliga/412/jornada/" + url + "/classificacio"; // redirect
+            }
+            return false;
+        });
+        $('#competitionLeagueRoundSelectInBans').on('change', function () {
+            var url = $(this).val(); // get selected value
+            if (url) { // require a URL
+                window.location = "http://v3.futsal.cat/competicio/lliga/412/jornada/" + url + "/sancions"; // redirect
+            }
+            return false;
+        });
+        var tab = "resultats";
+        if (tab == "resultats") {
+            $("#panel1").addClass("is-active");
+            $("#panel2").removeClass("is-active");
+            $("#panel3").removeClass("is-active");
+            $("#panel1-label").addClass("tabAactive");
+            $("#panel2-label").removeClass("tabAactive");
+            $("#panel3-label").removeClass("tabAactive");
+        }
+        if (tab == "classificacio") {
+            $("#example-tabs").foundation("selectTab", $("#panel2"));
+        }
+        if (tab == "sancions") {
+            $("#example-tabs").foundation("selectTab", $("#panel4"));
+        }
+
+    });
+</script>
+<div class="expanded row" id="footer">
+    <div class="large-16 medium-16 colums">
+        <div class="row collapse" ></div>
+    </div>
+</div>
+
+<script src="http://v3.futsal.cat/js/vendor/jquery.js"></script>
+<script src="http://v3.futsal.cat/js/vendor/what-input.js"></script>
+<script src="http://v3.futsal.cat/js/vendor/foundation.js"></script>
+<script src="http://v3.futsal.cat/js/app.js"></script>
+<script src="http://cdn.rawgit.com/joequery/Stupid-Table-Plugin/master/stupidtable.min.js"></script>
+
+<script src="https://zurb.com/playground/projects/responsive-tables/responsive-tables.js"></script>
+
+<script>
+    $(document).foundation();
+    $(window).bind("load", function () {        
+        var footer = $("#footer");
+        var pos = footer.position();
+        var height = $(window).height();
+        height = height - pos.top;
+        height = height - footer.height();
+        if (height > 0) {
+            footer.css({
+                'margin-top': height + 'px'
+            });
+        }
+    });
+    $(function () {
+        $("#simpleTable").stupidtable();
+    });
+</script>
+
+</body>
+</html>
+

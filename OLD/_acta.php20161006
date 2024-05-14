@@ -1,0 +1,198 @@
+<div class="newHeader">
+    <h1 id="sectionTitle"> <span style='color:#600;'>> </span>
+        <?
+        $url = explode("-", $_GET['id']);
+        $idMatch = $_GET['id'];
+        $sql = "select t1.id as idlocal, t1.name as local, t2.id as idvisitor,t2.name as visitor, localResult, visitorResult, updateddatetime, c1.image as localImage, c2.image as visitorImage, idseason "
+                . " from matches m "
+                . "     join rounds ro on ro.id=m.idround "
+                . "     join results r on r.idmatch=m.id "
+                . "     join teams t1 on t1.id=m.idlocal "
+                . "     join teams t2 on t2.id=m.idvisitor"
+                . "     join clubs c1 on c1.id=t1.idclub"
+                . "     join clubs c2 on c2.id=t2.idclub where m.id=" . $idMatch;
+        //echo $sql;
+        $res = mysql_query($sql);
+        $row = mysql_fetch_array($res);
+        echo "Acta partit $idMatch";
+        $idSeason = $row['idseason'];
+        $idVisitor = $row['idvisitor'];
+        ?>
+    </h1>
+</div>
+<div>&nbsp;</div>
+<div class="newContainer">
+    <?
+    echo "<div class='cupMatchResult'>";
+    echo "<div class='cupMatchLocal'><a href='" . $serverUrl . "equip/" . $row['idlocal'] . "-" . teamUrlFormat($row['local']) . "'>" . $row['local'] . "</a></div>";
+    echo "<div class='cupMatchLocalImage'> <img src='http://www.futsal.cat/webImages/clubsImages/" . $row['localImage'] . "' width=40 /></div>";
+
+    echo "<div class='cupMatchScore'>" . $row['localResult'] . "&nbsp; - &nbsp; " . $row['visitorResult'] . "<br /></div>";
+
+
+    echo "<div class='cupMatchVisitorImage'> <img src='http://www.futsal.cat/webImages/clubsImages/" . $row['visitorImage'] . "' width=40/></div>";
+    echo "<div class='cupMatchVisitor'><a href='" . $serverUrl . "equip/" . $row['idvisitor'] . "-" . teamUrlFormat($row['visitor']) . "'>" . $row['visitor'] . "</a></div>";
+    echo "</div>";
+    echo "<div style='clear:both; margin-top:15px;'></div>";
+    echo "<div class='cupMatchLocal' style='width:42%;'>";
+    $sql2 = "select * from player_goals_match pgm join players p on p.id=pgm.idplayer where idmatch=$idMatch and idTeam=" . $row['idlocal']." order by 0+minute";
+
+    $res2 = mysql_query($sql2);
+    while ($row2 = mysql_fetch_array($res2)) {
+        echo $row2['name'] . " " . $row2['minute'] . "' <br />";
+    }
+    echo "</div>";
+    echo "<div  class='cupMatchVisitor' style='width:40%; margin-left:40px;'>";
+    $sql2 = "select * from player_goals_match pgm join players p on p.id=pgm.idplayer where idmatch=$idMatch and idTeam=" . $row['idvisitor']." order by 0+minute";;
+
+    //echo $sql2;
+    $res2 = mysql_query($sql2);
+    while ($row2 = mysql_fetch_array($res2)) {
+        echo $row2['name'] . " " . $row2['minute'] . "' <br />";
+    }
+    echo "</div>";
+    ?>
+    <div style='clear:both;'></div>
+    <div style="width:49%; float:left; margin-top:15px;">
+        <table cellpadding='6' cellspacing='0'>
+
+            <th>&nbsp;</th>
+
+
+            <th style='text-align: center;'>G</th>
+            <th style='text-align: center;'><div  style='background-color:#ffcc00;width:12px;'>&nbsp;</div></th>
+
+            <th style='text-align: center;'><div  style='background-color:#00b;width:12px;'>&nbsp;</div></th>
+            <th>Posici&oacute;</th>
+            <?
+            $idTeam = $row['idlocal'];
+            $sql = "select "
+                    . "p.name,"
+                    . "(select count(number) from player_goals_match where idMatch=$idMatch and idPlayer=p.id and idTeam=$idTeam) as goals,"
+                    . "(select yellowCards from player_card_match pcm where idMatch=$idMatch and idPlayer=p.id ) as yellowCard,"
+                    . " (select blueCards from player_card_match where idMatch=$idMatch and idPlayer=p.id ) as blueCards,
+                         pts.position,
+                         (select idPosition from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as matchPosition,"
+                    . "(select isCaptain from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as isCaptain,
+                       pp.position,
+                       pp2.position as teamPosition,
+                       -- (select 0+number from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as number
+                       mp.number
+from matches_players mp
+join matches m on m.id=mp.idmatch
+join rounds r on r.id=m.idround
+join players p on p.id=mp.idplayer
+join player_team_season pts on pts.idplayer=p.id and pts.idseason=r.idseason
+left join `playerPositions` pp on pp.id=mp.idposition
+left join `playerPositions` pp2 on pp2.id=pts.position
+
+where idmatch=$idMatch and mp.idteam=$idTeam
+    order by  pp.position asc,number
+ ";
+            echo "<!-- $sql -->";
+            $res = mysql_query($sql) or die(mysql_error());
+            while ($row = mysql_fetch_array($res)) {
+                if ($row['goals'] == 0) {
+                    $row['goals'] = 0;
+                }
+                if ($row['yellowCard'] == 0) {
+                    $row['yellowCard'] = 0;
+                }
+                if ($row['blueCards'] == 0) {
+                    $row['blueCards'] = 0;
+                }
+                if ($row['isCaptain'] == 1) {
+                    $c = " font-weight:bold; ";
+                    $ca = "(C) ";
+                }
+                if ($row['position']) {
+                    $position = $row['position'];
+                } else {
+                    $position = $row['teamPosition'];
+                }
+                $n = explode(" ", $row['name']);
+                $name = $n[0] . " " . $n[1];
+                if ($row['number'] == 0) {
+                    $row['number'] = "&bull;";
+                }
+                echo "<tr><td style='border-bottom:1px solid #424242;$c'>" . $row['number'] . " $ca " . substr($name, 0, 17) . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['goals'] . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['yellowCard'] . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['blueCards'] . "</td><td style='border-bottom:1px solid #424242;$c'>" . $position . "</tr>";
+
+                $c = "";
+                $ca = "";
+            }
+            ?> 
+        </table>
+    </div>
+    <div style="width:49%;float:left;">
+        <table cellspacing=0 cellpadding='6' border="0">
+
+            <th >&nbsp;</th>
+            <th style='text-align: center;'>G</th>
+            <th style='text-align: center;'><div  style='background-color:#ffcc00;width:12px;'>&nbsp;</div></th>
+            <th style='text-align: center;'><div  style='background-color:#00b;width:12px;'>&nbsp;</div></th>
+            <th>Posici&oacute;</th>
+            <?
+            $idTeam = $idVisitor;
+            $sql = "select "
+                    . "p.name,"
+                    . "(select count(number) from player_goals_match where idMatch=$idMatch and idPlayer=p.id and idTeam=$idTeam) as goals,"
+                    . "(select yellowCards from player_card_match pcm where idMatch=$idMatch and idPlayer=p.id ) as yellowCard,"
+                    . " (select blueCards from player_card_match where idMatch=$idMatch and idPlayer=p.id ) as blueCards,
+                         pts.position,
+                         (select idPosition from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as matchPosition,"
+                    . "(select isCaptain from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as isCaptain,
+                       pp.position,
+                       pp2.position as teamPosition,
+                       -- (select 0+number from matches_players where idPlayer=p.id and idMatch=$idMatch and idTeam=$idTeam) as number
+                       mp.number
+                       
+
+            
+         from matches_players mp
+join matches m on m.id=mp.idmatch
+join rounds r on r.id=m.idround
+join players p on p.id=mp.idplayer
+join player_team_season pts on pts.idplayer=p.id and pts.idseason=r.idseason
+left join `playerPositions` pp on pp.id=mp.idposition
+left join `playerPositions` pp2 on pp2.id=pts.position
+
+where idmatch=$idMatch and mp.idteam=$idTeam
+    order by  pp.position asc, number
+ ";
+            echo "<!-- $sql -->";
+            $res = mysql_query($sql) or die(mysql_error());
+            while ($row = mysql_fetch_array($res)) {
+                if ($row['goals'] == 0) {
+                    $row['goals'] = 0;
+                }
+                if ($row['yellowCard'] == 0) {
+                    $row['yellowCard'] = 0;
+                }
+                if ($row['blueCards'] == 0) {
+                    $row['blueCards'] = 0;
+                }
+                if ($row['isCaptain'] == 1) {
+                    $c = " font-weight:bold; ";
+                    $ca = "(C) ";
+                }
+                if ($row['position']) {
+                    $position = $row['position'];
+                } else {
+                    $position = $row['teamPosition'];
+                }
+                $n = explode(" ", $row['name']);
+                $name = $n[0] . " " . $n[1];
+                if ($row['number'] == 0) {
+                    $row['number'] = "&bull;";
+                }
+                echo "<tr><td style='border-bottom:1px solid #424242;$c'>" . $row['number'] . " $ca " . substr($name, 0, 17) . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['goals'] . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['yellowCard'] . "</td><td align=center style='border-bottom:1px solid #424242;$c'>" . $row['blueCards'] . "</td><td style='border-bottom:1px solid #424242;$c'>" . $position . "</tr>";
+
+                $c = "";
+                $ca = "";
+            }
+            ?> 
+        </table>
+    </div>
+
+
+</div>

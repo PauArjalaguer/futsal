@@ -1,0 +1,1400 @@
+04-12-2014 03:12:45 ---->Nom:
+               >> Arxiu:
+               >> Destí: ../../../documents/
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:54 ---->Nom:
+               >> Arxiu:
+               >> Destí: ../../../documents/
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:38 ---->Nom:star-wars-the-force-awakens-millennium-falcon-imax.jpg
+               >> Arxiu:C:\Windows\Temp\php4C2C.tmp
+               >> Destí: ../../../documents/star-wars-the-force-awakens-millennium-falcon-imax.jpg
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:51 ---->Nom:Requisitos instalaciÃ³n gturn_REV_Junio_2013.pdf
+               >> Arxiu:C:\Windows\Temp\php80B4.tmp
+               >> Destí: ../../../documents/Requisitos instalaciÃ³n gturn_REV_Junio_2013.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:54 ---->Nom:Formulario configuraciÃ³n red gturn_REV_Julio_2013.pdf
+               >> Arxiu:C:\Windows\Temp\php76E6.tmp
+               >> Destí: ../../../documents/Formulario configuraciÃ³n red gturn_REV_Julio_2013.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:28 ---->Nom:Requisitos instalaciÃƒÂ³n gturn_REV_Junio_2013.pdf
+               >> Arxiu:C:\Windows\Temp\phpF9CC.tmp
+               >> Destí: ../../../documents/Requisitos instalaciÃƒÂ³n gturn_REV_Junio_2013.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 03:12:47 ---->Nom:Requisitos instalación gturn_REV_Junio_2013.pdf
+               >> Arxiu:C:\Windows\Temp\php46E3.tmp
+               >> Destí: ../../../documents/Requisitos instalación gturn_REV_Junio_2013.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 04:12:09 ---->Nom:star-wars-the-force-awakens-millennium-falcon-imax.jpg
+               >> Arxiu:C:\Windows\Temp\php18B.tmp
+               >> Destí: ../../../documents/star-wars-the-force-awakens-millennium-falcon-imax.jpg
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 04:12:32 ---->Nom:s en Excel.xlsx
+               >> Arxiu:C:\Windows\Temp\php46B6.tmp
+               >> Destí: ../../../documents/s en Excel.xlsx
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 04:12:52 ---->Nom:Envíos Tourline.rtf
+               >> Arxiu:C:\Windows\Temp\php9360.tmp
+               >> Destí: ../../../documents/Envíos Tourline.rtf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 04:12:48 ---->Nom:NIghtrain22112014.mp3
+               >> Arxiu:C:\Windows\Temp\php6C33.tmp
+               >> Destí: ../../../documents/NIghtrain22112014.mp3
+               >> Mida: 
+               >> Extensió:  
+               >> IP:127.0.0.1
+
+04-12-2014 04:12:14 ---->Nom:Acta 12 CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1qoDZ1
+               >> Destí: ../../../documents/Acta 12 CdC.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+04-12-2014 04:12:34 ---->Nom:Acta12CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsEpWvv
+               >> Destí: ../../../documents/Acta12CdC.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+04-12-2014 04:12:45 ---->Nom:Acta12CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpmABuWO
+               >> Destí: ../../../documents/Acta12CdC.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+04-12-2014 04:12:30 ---->Nom:Acta12CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpzUTTH9
+               >> Destí: ../../../documents/Acta12CdC.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+04-12-2014 06:12:38 ---->Nom:futsal_2014-11-19.sql.gz
+               >> Arxiu:
+               >> Destí: ../../../documents/futsal_2014-11-19.sql.gz
+               >> Mida: 
+               >> Extensió:  
+               >> IP:47.61.246.194
+
+09-12-2014 04:12:57 ---->Nom:Acta13CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpX7G5HD
+               >> Destí: ../../../documents/Acta13CdC.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+16-12-2014 04:12:31 ---->Nom:Acta14CdC_20141216.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phppoQ0Ca
+               >> Destí: ../../../documents/Acta14CdC_20141216.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:88.26.204.152
+
+17-12-2014 08:12:06 ---->Nom:ParteACCIDENTE.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpBSyMPJ
+               >> Destí: ../../../documents/ParteACCIDENTE.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.26
+
+17-12-2014 08:12:54 ---->Nom:MUTUA.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpXTlzJc
+               >> Destí: ../../../documents/MUTUA.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.26
+
+17-12-2014 10:12:54 ---->Nom:guns_n_roses-14_years.mid
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpN9xdTJ
+               >> Destí: ../../../documents/guns_n_roses-14_years.mid
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.26
+
+17-12-2014 10:12:32 ---->Nom:ParteACCIDENTE.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOuHh9r
+               >> Destí: ../../../documents/ParteACCIDENTE.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.26
+
+24-12-2014 06:12:52 ---->Nom:20141223155545639.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5dGdGm
+               >> Destí: ../../../documents/20141223155545639.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.187
+
+24-12-2014 06:12:23 ---->Nom:Sense nom.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwy6KOk
+               >> Destí: ../../../documents/Sense nom.jpg
+               >> Mida: 
+               >> Extensió:  
+               >> IP:188.87.148.187
+
+11-01-2015 12:01:36 ---->Nom:Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpO4z6js
+               >> Destí: ../../../documents/Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:04 ---->Nom:Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpWdUeZr
+               >> Destí: ../../../documents/Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:30 ---->Nom:Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpJ5xmgO
+               >> Destí: ../../../documentacio/Acta Apel·lació 5 - 09-01-2015.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:01 ---->Nom:20141223155545639.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpyQyhEr
+               >> Destí: 20141223155545639.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:46 ---->Nom:20141223155545639.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpeAasZN
+               >> Destí: ../../../20141223155545639.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:21 ---->Nom:20141223155545639.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHzJuFR
+               >> Destí: ../../../documentacio/20141223155545639.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+11-01-2015 12:01:08 ---->Nom:Acta_apelacio5.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpKlEyeh
+               >> Destí: ../../../documentacio/Acta_apelacio5.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+13-01-2015 07:01:26 ---->Nom:Acta16CdC_20150113.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php74nuvw
+               >> Destí: ../../../documentacio/Acta16CdC_20150113.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.161.67
+
+16-01-2015 05:01:01 ---->Nom:Acta Apel·lació 6 - 16-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpZ5oF3m
+               >> Destí: ../../../documentacio/Acta Apel·lació 6 - 16-01-2015.pdf
+               >> Mida: 
+               >> Extensió:  
+               >> IP:77.231.176.178
+
+16-01-2015 05:01:24 ---->Nom:ActaApel·lació6-16-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHIgvge
+               >> Desti: ../../../documentacio/ActaApel·lació6-16-01-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.176.178
+
+16-01-2015 05:01:45 ---->Nom:ActaApel·lació6-16-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprXochP
+               >> Desti: ../../../documentacio/ActaApel·lació6-16-01-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.176.178
+
+16-01-2015 05:01:00 ---->Nom:ActaApel·lació6-16-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php00Xg1m
+               >> Desti: ../../../documentacio/ActaApel·lació6-16-01-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.176.178
+
+20-01-2015 09:01:04 ---->Nom:Circular6-20.11.14-PagamentSancionsCdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVqotJZ
+               >> Desti: ../../../documentacio/Circular6-20.11.14-PagamentSancionsCdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+20-01-2015 09:01:04 ---->Nom:Circular7-20.11.14-Uniformitatjugadors.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQHqINZ
+               >> Desti: ../../../documentacio/Circular7-20.11.14-Uniformitatjugadors.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+20-01-2015 07:01:52 ---->Nom:Acta17CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phppKaRb1
+               >> Desti: ../../../documentacio/Acta17CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.185
+
+27-01-2015 07:01:06 ---->Nom:Acta18CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5YudZ1
+               >> Desti: ../../../documentacio/Acta18CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.106
+
+30-01-2015 05:01:15 ---->Nom:ActaApel·lació7-28-01-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHmAxGJ
+               >> Desti: ../../../documentacio/ActaApel·lació7-28-01-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.198
+
+03-02-2015 04:02:35 ---->Nom:Acta19CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpGUkycw
+               >> Desti: ../../../documentacio/Acta19CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.198
+
+10-02-2015 08:02:16 ---->Nom:Acta20CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9IMbk5
+               >> Desti: ../../../documentacio/Acta20CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:47.61.246.98
+
+10-02-2015 09:02:42 ---->Nom:ActaApel·lació8-06-02-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprX8q3V
+               >> Desti: ../../../documentacio/ActaApel·lació8-06-02-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:47.61.246.98
+
+16-02-2015 03:02:40 ---->Nom:Acta21CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpARlPE9
+               >> Desti: ../../../documentacio/Acta21CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.196
+
+17-02-2015 07:02:13 ---->Nom:Acta22CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprLTyLA
+               >> Desti: ../../../documentacio/Acta22CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.196
+
+21-02-2015 09:02:32 ---->Nom:Acta23CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpDwrV5B
+               >> Desti: ../../../documentacio/Acta23CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.196
+
+21-02-2015 09:02:44 ---->Nom:ActaApel·lació9-20-02-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpCwC2Nr
+               >> Desti: ../../../documentacio/ActaApel·lació9-20-02-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.196
+
+25-02-2015 03:02:31 ---->Nom:Acta24CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpvB7Idi
+               >> Desti: ../../../documentacio/Acta24CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+25-02-2015 03:02:36 ---->Nom:ActaApel·lació10-23-02-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php2ooG3E
+               >> Desti: ../../../documentacio/ActaApel·lació10-23-02-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+04-03-2015 08:03:24 ---->Nom:Acta25CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpSuiWX6
+               >> Desti: ../../../documentacio/Acta25CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+08-03-2015 06:03:46 ---->Nom:ActaApel·lació11-06-03-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5dEIon
+               >> Desti: ../../../documentacio/ActaApel·lació11-06-03-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.176.202
+
+11-03-2015 03:03:23 ---->Nom:Acta26CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQHSBdY
+               >> Desti: ../../../documentacio/Acta26CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:185.35.95.9
+
+17-03-2015 08:03:02 ---->Nom:Acta27CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpb8e5OW
+               >> Desti: ../../../documentacio/Acta27CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.250
+
+19-03-2015 06:03:58 ---->Nom:Circular8-LímitAltaJugadors.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpGO3ygF
+               >> Desti: ../../../documentacio/Circular8-LímitAltaJugadors.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.250
+
+24-03-2015 09:03:14 ---->Nom:Acta28CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQm7U17
+               >> Desti: ../../../documentacio/Acta28CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.137
+
+27-03-2015 11:03:50 ---->Nom:Acta29CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6cgJtc
+               >> Desti: ../../../documentacio/Acta29CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.193
+
+31-03-2015 08:03:32 ---->Nom:Acta30CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgEG9fL
+               >> Desti: ../../../documentacio/Acta30CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.172
+
+09-04-2015 08:04:15 ---->Nom:Acta31CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpTXbxyi
+               >> Desti: ../../../documentacio/Acta31CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.141
+
+15-04-2015 09:04:13 ---->Nom:Acta32CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpYzwjCC
+               >> Desti: ../../../documentacio/Acta32CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.56
+
+15-04-2015 09:04:24 ---->Nom:ActaApel·lació12-13-04-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpREHZdB
+               >> Desti: ../../../documentacio/ActaApel·lació12-13-04-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.56
+
+15-04-2015 09:04:43 ---->Nom:COPA2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVp4tDE
+               >> Desti: ../../../documentacio/COPA2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.56
+
+18-04-2015 07:04:50 ---->Nom:COPACATALUNYA_ALEVI.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpz4ZO8m
+               >> Desti: ../../../documentacio/COPACATALUNYA_ALEVI.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:05 ---->Nom:COPACATALUNYA_BENJAMI.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpb3KALu
+               >> Desti: ../../../documentacio/COPACATALUNYA_BENJAMI.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:36 ---->Nom:COPACATALUNYA_BENJAMI.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpXnG6yM
+               >> Desti: ../../../documentacio/COPACATALUNYA_BENJAMI.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:45 ---->Nom:COPACATALUNYA_CADET.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpKjGQUs
+               >> Desti: ../../../documentacio/COPACATALUNYA_CADET.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:54 ---->Nom:COPACATALUNYA_INFANTIL.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpJHCJBV
+               >> Desti: ../../../documentacio/COPACATALUNYA_INFANTIL.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:01 ---->Nom:COPACATALUNYA_juvenil.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprzFcKD
+               >> Desti: ../../../documentacio/COPACATALUNYA_juvenil.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+18-04-2015 07:04:12 ---->Nom:COPACATALUNYA_SENIOR.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqWjQdH
+               >> Desti: ../../../documentacio/COPACATALUNYA_SENIOR.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.40
+
+21-04-2015 09:04:10 ---->Nom:Acta33CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpmbym95
+               >> Desti: ../../../documentacio/Acta33CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.38
+
+28-04-2015 07:04:16 ---->Nom:ActaApel·lació13-27-04-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprCLe6j
+               >> Desti: ../../../documentacio/ActaApel·lació13-27-04-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.245
+
+28-04-2015 08:04:16 ---->Nom:Acta34CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIsZlV6
+               >> Desti: ../../../documentacio/Acta34CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.24.247.245
+
+04-05-2015 11:05:11 ---->Nom:ActaApel·lació15-04-05-2015.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVUuZpS
+               >> Desti: ../../../documentacio/ActaApel·lació15-04-05-2015.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.210
+
+05-05-2015 07:05:47 ---->Nom:Acta35CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1JcHWj
+               >> Desti: ../../../documentacio/Acta35CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.210
+
+12-05-2015 08:05:52 ---->Nom:Acta36CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phphXDLMF
+               >> Desti: ../../../documentacio/Acta36CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.210
+
+19-05-2015 03:05:15 ---->Nom:Acta37CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phptaUIeH
+               >> Desti: ../../../documentacio/Acta37CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+20-05-2015 07:05:10 ---->Nom:FULLINSCRIPCIo2015-16.doc
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpMk8k2G
+               >> Desti: ../../../documentacio/FULLINSCRIPCIo2015-16.doc
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.53
+
+21-05-2015 08:05:53 ---->Nom:Tarifas15-16.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpWMDuet
+               >> Desti: ../../../documentacio/Tarifas15-16.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.227
+
+25-05-2015 09:05:09 ---->Nom:Acta38CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpUV3D0D
+               >> Desti: ../../../documentacio/Acta38CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.252
+
+02-06-2015 08:06:47 ---->Nom:Acta39CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcFwz2C
+               >> Desti: ../../../documentacio/Acta39CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+15-06-2015 09:06:53 ---->Nom:Acta41CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpCo5N2L
+               >> Desti: ../../../documentacio/Acta41CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.233
+
+23-10-2015 01:10:00 ---->Nom:Acta115-16(1).doc
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpahkSKU
+               >> Desti: ../../../documentacio/Acta115-16(1).doc
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+03-02-2016 07:02:57 ---->Nom:CDC_ACTA1.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpS0f8wt
+               >> Desti: ../../../documentacio/CDC_ACTA1.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.157
+
+06-02-2016 08:02:04 ---->Nom:Comunicat_junta_gestora.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwPxoYZ
+               >> Desti: ../../../documentacio/Comunicat_junta_gestora.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.72
+
+08-02-2016 03:02:51 ---->Nom:CadetBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpSI6qEr
+               >> Desti: ../../../documentacio/CadetBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:25 ---->Nom:CadetBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phptGxnyY
+               >> Desti: ../../../documentacio/CadetBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:39 ---->Nom:CadetADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php41yjMq
+               >> Desti: ../../../documentacio/CadetADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:57 ---->Nom:CadetAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpi3yxOM
+               >> Desti: ../../../documentacio/CadetAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:15 ---->Nom:BenjaminADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpjPpDE5
+               >> Desti: ../../../documentacio/BenjaminADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:35 ---->Nom:BenjaminAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsEYaXA
+               >> Desti: ../../../documentacio/BenjaminAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:58 ---->Nom:ALEVIBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpzzt5kI
+               >> Desti: ../../../documentacio/ALEVIBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:21 ---->Nom:ALEVIBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcOa290
+               >> Desti: ../../../documentacio/ALEVIBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:42 ---->Nom:ALEVIADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpfbs3j6
+               >> Desti: ../../../documentacio/ALEVIADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:06 ---->Nom:ALEVIAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpmArbOj
+               >> Desti: ../../../documentacio/ALEVIAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:27 ---->Nom:2aTERRITORIALCDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpEN2qnT
+               >> Desti: ../../../documentacio/2aTERRITORIALCDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:45 ---->Nom:2aTERRITORIALCContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpjdEqud
+               >> Desti: ../../../documentacio/2aTERRITORIALCContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:04 ---->Nom:2aTERRITORIALBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpD9oTPT
+               >> Desti: ../../../documentacio/2aTERRITORIALBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:20 ---->Nom:2aTERRITORIALBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpNutX8g
+               >> Desti: ../../../documentacio/2aTERRITORIALBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 03:02:11 ---->Nom:2aTERRITORIALADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phplnjRYC
+               >> Desti: ../../../documentacio/2aTERRITORIALADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 04:02:01 ---->Nom:2aTERRITORIALAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpUydv8c
+               >> Desti: ../../../documentacio/2aTERRITORIALAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 04:02:19 ---->Nom:1aNacionalBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPk8vtd
+               >> Desti: ../../../documentacio/1aNacionalBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 04:02:37 ---->Nom:1aNacionalBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpEmX15W
+               >> Desti: ../../../documentacio/1aNacionalBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 04:02:54 ---->Nom:1aNacionalADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqVWGqX
+               >> Desti: ../../../documentacio/1aNacionalADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 04:02:11 ---->Nom:1aNacionalAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpqBmX0Z
+               >> Desti: ../../../documentacio/1aNacionalAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+08-02-2016 09:02:59 ---->Nom:comunicatgestora2.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpD5sgo8
+               >> Desti: ../../../documentacio/comunicatgestora2.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+09-02-2016 11:02:06 ---->Nom:TerritorialBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpJozuFj
+               >> Desti: ../../../documentacio/TerritorialBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:26 ---->Nom:TerritorialBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9qkOcM
+               >> Desti: ../../../documentacio/TerritorialBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:35 ---->Nom:TerritorialADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1oa5bT
+               >> Desti: ../../../documentacio/TerritorialADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:48 ---->Nom:TerritorialAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpc5hxXR
+               >> Desti: ../../../documentacio/TerritorialAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:42 ---->Nom:PreBenjaminADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpA0T4r8
+               >> Desti: ../../../documentacio/PreBenjaminADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:00 ---->Nom:PreBenjaminAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5tcQqv
+               >> Desti: ../../../documentacio/PreBenjaminAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:15 ---->Nom:LligaNacionalJuvenilDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php8W1yVz
+               >> Desti: ../../../documentacio/LligaNacionalJuvenilDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:39 ---->Nom:LligaNacionalJuvenilContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpL14Roo
+               >> Desti: ../../../documentacio/LligaNacionalJuvenilContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:07 ---->Nom:LligaNacionalFemeninaDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPqy30h
+               >> Desti: ../../../documentacio/LligaNacionalFemeninaDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:27 ---->Nom:LligaNacionalFemeninaContactespdf.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php4TCfgO
+               >> Desti: ../../../documentacio/LligaNacionalFemeninaContactespdf.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 11:02:41 ---->Nom:LligaNacionalCatalanaDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpCkeDQP
+               >> Desti: ../../../documentacio/LligaNacionalCatalanaDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:05 ---->Nom:LligaNacionalCatalanaContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php3t06dC
+               >> Desti: ../../../documentacio/LligaNacionalCatalanaContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:34 ---->Nom:JuvenilBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpel2IZL
+               >> Desti: ../../../documentacio/JuvenilBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:50 ---->Nom:JuvenilBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpXoj4yw
+               >> Desti: ../../../documentacio/JuvenilBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:03 ---->Nom:JuvenilADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php6ZX0rU
+               >> Desti: ../../../documentacio/JuvenilADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:14 ---->Nom:JuvenilAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpjh3w1z
+               >> Desti: ../../../documentacio/JuvenilAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:29 ---->Nom:INFANTILBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpYg9JHP
+               >> Desti: ../../../documentacio/INFANTILBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:57 ---->Nom:INFANTILBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPRg2JT
+               >> Desti: ../../../documentacio/INFANTILBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:17 ---->Nom:INFANTILADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpzagFqm
+               >> Desti: ../../../documentacio/INFANTILADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:31 ---->Nom:INFANTILAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOgEFUq
+               >> Desti: ../../../documentacio/INFANTILAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:03 ---->Nom:TerritorialFemeniBDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpJ6QRJK
+               >> Desti: ../../../documentacio/TerritorialFemeniBDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:22 ---->Nom:TerritorialFemeniBContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcFy0UR
+               >> Desti: ../../../documentacio/TerritorialFemeniBContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:34 ---->Nom:TerritorialFemeniADades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAoAnov
+               >> Desti: ../../../documentacio/TerritorialFemeniADades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:44 ---->Nom:TerritorialFemeniAContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpPRY1Sz
+               >> Desti: ../../../documentacio/TerritorialFemeniAContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:00 ---->Nom:TerritorialDDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpvP1qDr
+               >> Desti: ../../../documentacio/TerritorialDDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:14 ---->Nom:TerritorialDContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHbkuWt
+               >> Desti: ../../../documentacio/TerritorialDContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:29 ---->Nom:TerritorialCDades.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpaF5NzA
+               >> Desti: ../../../documentacio/TerritorialCDades.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 12:02:41 ---->Nom:TerritorialCContactes.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpcYVACV
+               >> Desti: ../../../documentacio/TerritorialCContactes.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-02-2016 07:02:10 ---->Nom:Acta2.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpMRr4Fr
+               >> Desti: ../../../documentacio/Acta2.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.77
+
+17-02-2016 07:02:21 ---->Nom:Acta3.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpnzRm5a
+               >> Desti: ../../../documentacio/Acta3.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.19
+
+24-02-2016 09:02:27 ---->Nom:Acta4.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phppoe9Gz
+               >> Desti: ../../../documentacio/Acta4.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+02-03-2016 07:03:52 ---->Nom:Acta5.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgImC1a
+               >> Desti: ../../../documentacio/Acta5.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:188.87.148.53
+
+05-03-2016 09:03:40 ---->Nom:Acta6.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpkcbF0N
+               >> Desti: ../../../documentacio/Acta6.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.224
+
+05-03-2016 09:03:51 ---->Nom:comunicatgestora3.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php1wKOnE
+               >> Desti: ../../../documentacio/comunicatgestora3.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.224
+
+08-03-2016 09:03:56 ---->Nom:Acta7.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpHhfS7M
+               >> Desti: ../../../documentacio/Acta7.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.161.9
+
+15-03-2016 09:03:44 ---->Nom:Acta8.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php2LpGej
+               >> Desti: ../../../documentacio/Acta8.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:47.61.240.41
+
+16-03-2016 06:03:03 ---->Nom:Acta1.15-16CdA.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpx8Qk54
+               >> Desti: ../../../documentacio/Acta1.15-16CdA.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:47.61.240.41
+
+18-03-2016 09:03:50 ---->Nom:Acta2.15-16CdA.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpDsGbTI
+               >> Desti: ../../../documentacio/Acta2.15-16CdA.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:47.61.240.41
+
+23-03-2016 07:03:53 ---->Nom:ActaJEFUTSAL3.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpFmJ1m0
+               >> Desti: ../../../documentacio/ActaJEFUTSAL3.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.69
+
+23-03-2016 07:03:30 ---->Nom:Avaldecandidatura.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAl2q9Z
+               >> Desti: ../../../documentacio/Avaldecandidatura.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.69
+
+23-03-2016 07:03:46 ---->Nom:Escritdepresentaciodecandidatura.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAyF8me
+               >> Desti: ../../../documentacio/Escritdepresentaciodecandidatura.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.178.69
+
+24-03-2016 12:03:16 ---->Nom:Acta9.15-16CdC.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgT5htQ
+               >> Desti: ../../../documentacio/Acta9.15-16CdC.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+07-04-2016 04:04:27 ---->Nom:Acta10.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpecGZDe
+               >> Desti: ../../../documentacio/Acta10.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+14-04-2016 05:04:39 ---->Nom:Acta11.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php8S3hcw
+               >> Desti: ../../../documentacio/Acta11.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.164.19
+
+21-04-2016 11:04:25 ---->Nom:Acta12.15-16CdC(ResolucionsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php240MJ9
+               >> Desti: ../../../documentacio/Acta12.15-16CdC(ResolucionsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+04-05-2016 10:05:52 ---->Nom:Acta13.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpuIgkaw
+               >> Desti: ../../../documentacio/Acta13.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+04-05-2016 01:05:35 ---->Nom:Acta14.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAgmopW
+               >> Desti: ../../../documentacio/Acta14.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+08-05-2016 09:05:29 ---->Nom:TARIFA_2016_2017.docx
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpm356oZ
+               >> Desti: ../../../documentacio/TARIFA_2016_2017.docx
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.164.56
+
+08-05-2016 09:05:06 ---->Nom:FULL_INSCRIPCIO_2016_2017.docx
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpXLEP2G
+               >> Desti: ../../../documentacio/FULL_INSCRIPCIO_2016_2017.docx
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.164.56
+
+10-05-2016 02:05:14 ---->Nom:FCFS-ResolucioRecursLloretEsportiuFS.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVJ7BMj
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursLloretEsportiuFS.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+10-05-2016 02:05:04 ---->Nom:FCFS-ResolucioRecursLloretEsportiuFS.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpVGvRfy
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursLloretEsportiuFS.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+11-05-2016 02:05:03 ---->Nom:FCFS-ResolucipRecursAESallent.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpTp7FUv
+               >> Desti: ../../../documentacio/FCFS-ResolucipRecursAESallent.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.85
+
+11-05-2016 12:05:25 ---->Nom:Acta15.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIXI7Ho
+               >> Desti: ../../../documentacio/Acta15.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+14-05-2016 07:05:09 ---->Nom:FCFS-ResolucioRecursDosriusSala.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpykQmyE
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursDosriusSala.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.85
+
+18-05-2016 01:05:11 ---->Nom:Acta16.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpj2yOGm
+               >> Desti: ../../../documentacio/Acta16.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+18-05-2016 01:05:34 ---->Nom:FCFS-ResolucióRecursLaGarriga.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOtQhcm
+               >> Desti: ../../../documentacio/FCFS-ResolucióRecursLaGarriga.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+21-05-2016 01:05:15 ---->Nom:FCFS-ResolucioRecursLaBisbal.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpDbbg2S
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursLaBisbal.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.226
+
+22-05-2016 09:05:37 ---->Nom:FCFS-ResoluciRecursJovesdeVidreresCFS.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpNX43rd
+               >> Desti: ../../../documentacio/FCFS-ResoluciRecursJovesdeVidreresCFS.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.18
+
+23-05-2016 10:05:22 ---->Nom:FCFS-ResolucioRecursPabloOsorioFSBellvis.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phps7Q4tx
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursPabloOsorioFSBellvis.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.18
+
+26-05-2016 11:05:04 ---->Nom:Acta17.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpdIapPM
+               >> Desti: ../../../documentacio/Acta17.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+26-05-2016 12:05:21 ---->Nom:Acta17.15-16CdC(ResolucionsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpis2Qvh
+               >> Desti: ../../../documentacio/Acta17.15-16CdC(ResolucionsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+01-06-2016 07:06:48 ---->Nom:Acta18.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9VaHel
+               >> Desti: ../../../documentacio/Acta18.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.184
+
+01-06-2016 07:06:58 ---->Nom:Ascensos-Descensos.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpIwdMnx
+               >> Desti: ../../../documentacio/Ascensos-Descensos.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.184
+
+03-06-2016 03:06:19 ---->Nom:Convocatòriaassemblea2716.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php9qOQfb
+               >> Desti: ../../../documentacio/Convocatòriaassemblea2716.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.184
+
+07-06-2016 06:06:06 ---->Nom:FCFS-ResolucioRecursCEFSMont-Ras.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpSALQIG
+               >> Desti: ../../../documentacio/FCFS-ResolucioRecursCEFSMont-Ras.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.178
+
+08-06-2016 07:06:49 ---->Nom:Acta19.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpAfpUmx
+               >> Desti: ../../../documentacio/Acta19.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.178
+
+15-06-2016 05:06:45 ---->Nom:Acta20.15-16CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpEbGmm9
+               >> Desti: ../../../documentacio/Acta20.15-16CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.165.122
+
+30-06-2016 04:06:36 ---->Nom:1467298036717-538191906.jpg
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQuzHsz
+               >> Desti: ../../../documentacio/1467298036717-538191906.jpg
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+22-09-2016 05:09:14 ---->Nom:polissa.PDF
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpV1mbcs
+               >> Desti: ../../../documentacio/polissa.PDF
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.251
+
+22-09-2016 05:09:04 ---->Nom:PARTE.PDF
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgDpzsH
+               >> Desti: ../../../documentacio/PARTE.PDF
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.162.251
+
+30-09-2016 06:09:41 ---->Nom:Acta1.16-17CdC(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpb0lTlZ
+               >> Desti: ../../../documentacio/Acta1.16-17CdC(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.194
+
+30-09-2016 08:09:02 ---->Nom:ProtocolCatalàFederacióv1.docx
+               >> Arxiu:/usr/home/futsal.cat/tmp/phptKIxOe
+               >> Desti: ../../../documentacio/ProtocolCatalàFederacióv1.docx
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.163.194
+
+18-10-2016 08:10:36 ---->Nom:APELACIO.PDF
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpkHO5ne
+               >> Desti: ../../../documentacio/APELACIO.PDF
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+19-10-2016 10:10:00 ---->Nom:Acta2.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpKbSAHW
+               >> Desti: ../../../documentacio/Acta2.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.164.140
+
+25-10-2016 08:10:42 ---->Nom:Acta3.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpxI99bY
+               >> Desti: ../../../documentacio/Acta3.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.165.136
+
+03-11-2016 04:11:05 ---->Nom:Acta4.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpy7FNwl
+               >> Desti: ../../../documentacio/Acta4.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+10-11-2016 05:11:29 ---->Nom:Acta5.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpRxT7xU
+               >> Desti: ../../../documentacio/Acta5.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+22-11-2016 10:11:08 ---->Nom:Acta7.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpB0YjvZ
+               >> Desti: ../../../documentacio/Acta7.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+30-11-2016 08:11:33 ---->Nom:Acta8.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpKL1ULy
+               >> Desti: ../../../documentacio/Acta8.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+06-12-2016 09:12:09 ---->Nom:Acta9.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpQyGXMT
+               >> Desti: ../../../documentacio/Acta9.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.196.59
+
+13-12-2016 08:12:11 ---->Nom:Acta10.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpTAgry5
+               >> Desti: ../../../documentacio/Acta10.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.195.61
+
+20-12-2016 08:12:31 ---->Nom:Acta11.16-17Cdc(AcordsCdC).pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phphmEkgf
+               >> Desti: ../../../documentacio/Acta11.16-17Cdc(AcordsCdC).pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.195.202
+
+18-01-2017 03:01:54 ---->Nom:ACTACOMITEJORNADA14.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phppmYmoy
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA14.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+25-01-2017 06:01:45 ---->Nom:ACTACOMITE13.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phprE3c8o
+               >> Desti: ../../../documentacio/ACTACOMITE13.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.194.175
+
+02-02-2017 01:02:06 ---->Nom:ACTACOMITE14.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php5o3lhe
+               >> Desti: ../../../documentacio/ACTACOMITE14.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.196.253
+
+09-02-2017 06:02:36 ---->Nom:ACTACOMITE15.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpK03dJb
+               >> Desti: ../../../documentacio/ACTACOMITE15.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.196.253
+
+16-02-2017 08:02:41 ---->Nom:ACTACOMITEJORNADA16.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsWHERQ
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA16.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.198.175
+
+17-02-2017 05:02:27 ---->Nom:ACTACOMITEJORNADA16ANEXE.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php0Mtc8m
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA16ANEXE.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.198.175
+
+24-02-2017 08:02:52 ---->Nom:acta17.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpOcGNm4
+               >> Desti: ../../../documentacio/acta17.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:46.25.152.58
+
+02-03-2017 11:03:02 ---->Nom:ACTACOMITEJORNADA18.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpZENc3v
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA18.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+09-03-2017 08:03:48 ---->Nom:ACTACOMITEJORNADA19.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwJBFSN
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA19.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.199.145
+
+16-03-2017 01:03:45 ---->Nom:ACTACOMITEJORNADA20.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpwoUSf9
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA20.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:88.26.204.152
+
+24-03-2017 10:03:12 ---->Nom:ACTACOMITEJORNADA21.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/php8eY6Zg
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA21.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.195.226
+
+30-03-2017 09:03:05 ---->Nom:ACTACOMITEJORNADA22.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpsd3a3r
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA22.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.195.187
+
+06-04-2017 06:04:51 ---->Nom:ACTACOMITEJORNADA23.pdf
+               >> Arxiu:/usr/home/futsal.cat/tmp/phpgDOWLH
+               >> Desti: ../../../documentacio/ACTACOMITEJORNADA23.pdf
+               >> Mida: 
+               >> Extensio:  
+               >> IP:77.231.194.130
+

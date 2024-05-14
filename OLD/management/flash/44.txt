@@ -1,0 +1,2 @@
+Filetype=image
+SQL=Update players set image='15307_image_1489228127.jpg' where id=15307

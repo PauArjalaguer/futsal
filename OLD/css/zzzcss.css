@@ -1,0 +1,1184 @@
+thumbsPerPagepaginselect
+{
+    background-color: #1a1a1a;
+    border: 0px;
+}
+
+.select{background-color: #c00; color:#fff;}
+h1{ color:#c00;}
+option
+{
+    background-color: #1a1a1a;
+    color: #fff;
+}
+p
+{
+    text-align: justify;
+    font-family: Verdana, Arial;
+    color:#333;
+    font-size:12px;
+    margin:0px;
+    padding:3px;
+    line-height:1.1;
+
+
+}
+
+p a{  text-decoration: underline;
+      color: #42424;}
+
+li
+{
+    margin-bottom: 6px;
+    text-align: justify;
+}
+body
+{
+    background-color: #fff;
+    background-repeat: repeat;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family:Lato,Ruda,Arial;
+    font-size: 12px;
+    line-height: 1.2;
+    margin: 0px 0px 0px 0px;
+    padding:0px;
+}
+#top
+{
+    background-image: url(../webImages/bodyBackground.jpg);
+    background-repeat: repeat-x;
+    padding-top: 5px;
+}
+h3
+{
+    font-size: 14px;
+}
+h4
+{
+    font-size: 12px;
+}
+a
+{
+    color: #333;
+    outline: 10px;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #333;
+    text-decoration: underline;
+}
+.white_link
+{
+    color: #ddd;
+}
+img
+{
+    border: 0px;
+    vertical-align:bottom;
+}
+#alpha
+{
+    background-color: #fff;
+    display: none;
+    height: 100%;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 0;
+    opacity: .0;
+    filter: alpha(opacity=0);
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+
+}
+#popup_container
+{
+    left: 0px;
+    overflow: hidden;
+    position: fixed;
+    top: 50px;
+    width: 100%;
+    z-index: 2;
+}
+.button{ cursor:pointer; font-weight:bold;}
+
+#popup
+{
+    background-color: #fff;
+    border: 1px solid #666;
+    display: none;
+    height: 50%;
+    overflow: hidden;
+
+    text-align: justify;
+    width: 50%;
+}
+
+#shadow
+{
+    background-image: url(http://www.futsal.cat/webImages/shadow.png);
+    margin: 0px;
+    padding: 0px 11px 0px 11px;
+    width: 960px;
+    margin:0px auto;
+
+
+}
+#head
+{
+    background-image: url(../webImages/header.png);
+    height: 125px;
+    margin: 0px 0px 0px 0px;
+    text-align: right;
+    width: 960px;
+    padding:0px;
+    margin:auto;
+}
+#buttonLine
+{
+    background-color: #3a3a3a;
+    background-image: url(../webImages/buttonMenuBackground.png);
+    border-bottom: 1px solid #333;
+    border-top: 1px solid #333;
+    display: table;
+    padding: 3px 0px 3px 0px;
+    width: 100%;
+}
+#buttonLine ul
+{
+    list-style: none;
+    list-style-position: outside;
+    margin: 0px;
+    margin-left:15px;
+    padding: 0px;
+}
+#buttonLine li
+{ 	
+    border-right: 1px solid;
+    color: #fc0;
+    cursor: pointer;
+    float: left;
+    font-family: Arial, Verdana;
+    font-size: 11px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100px;
+}
+#buttonLine li a{
+    color:#fc0;
+}
+#buttonLine li:hover
+{
+    border-right: 1px solid;
+    color: #fc0;
+    cursor: pointer;
+    float: left;
+    font-family: Arial, Verdana;
+
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100px;
+}
+#subMenu
+{
+    height: 1px;
+    overflow: visible;
+    position: absolute;
+}
+.subMenu
+{
+    list-style: none;
+    list-style-position: outside;
+    margin: 0px;
+    padding: 0px;
+
+    background-repeat:repeat-x;
+    background-color:#900;
+}
+.subMenuLi a{
+    color: #fff;
+    cursor: pointer;
+
+    font-family: Arial, Verdana;
+    font-size: 11px;
+    font-weight:bold;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.subMenuLi,.subMenuLiTitle
+{	background-image: url(../webImages/buttonMenuBackground.png);
+  background-image:url(../webImages/subMenuLiArrow.png);
+  background-repeat:no-repeat;
+  border-bottom: 0px solid #666;
+  color: #fff;
+  cursor: pointer;
+  font-family: Verdana;
+  font-size: 12px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  padding: 0px 00px 0px 10px;
+  text-align: left;
+  padding:8px;
+  width: 164px;
+  background-color:#333333;
+  font-weight:bold;
+}
+.subMenuLi a:hover{ text-indent:13px;}
+.subMenuLi:hover,.subMenuLiTitle
+{
+    background-color: #600;
+    color: #000;
+    background-image:url(../webImages/subMenuLiArrowHover.png);
+    background-repeat:no-repeat;
+
+}
+#menuFederacio, #menuFutsal,#menuCompeticio,#menuSeleccions,#menuArbitratge, #menuComites, #menuDescarregues, #menuPremsa, #menuNoticies
+{	filter:alpha(opacity=0);
+  -moz-opacity:0;
+  -khtml-opacity: 0;
+  opacity: 0;
+  z-index:20;
+  backgrounda-color: #EEE;
+  border: 0px solid #999;
+  display: none;
+  float: left;
+  position: relative;
+  text-align: left;
+  width: 180px;
+  font-size:13px;
+
+}
+.searchTable td{
+    padding:5px;
+    font-size:14px;
+}
+.announcement{
+    display:none;
+    height:40px;
+    padding:5px;
+    padding-left: 20px;
+    font-size: 12px;
+    color:#fff;
+    text-shadow: 0px -1px -1px #333;
+    border-top:1px solid #fff;
+    border-bottom:1px solid #ddd;
+}
+
+.announcement strong{color:#ddd; text-transform: uppercase;}
+.announcement a{color:#fff;}
+
+.announcement a.link{
+    float:right;
+    text-transform:uppercase;
+
+    width:15px;
+    height:14px;
+    margin-right: 11px;
+    padding-top:1px;
+    text-align:center;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    position:relative;
+    font-size:10px;
+
+}
+
+.announcementNoTop{border-top:0px; color:#fc0;}
+.announcementNoBottom{border-bottom: 0;}
+.announcementGrey{
+    background-color: #556775;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#556775', endColorstr='#44525d'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#556775), to(#44525d)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #556775,  #44525d); /* for firefox 3.6+ */
+}
+
+.announcement a.linkGrey{
+    background:#37424b;
+    -moz-box-shadow: 0px 2px rgba(255,255,255,0.2);
+    -webkit-box-shadow: 0px 2px rgba(255,255,255,0.2);
+    border:solid 1px #43515c;
+}
+.announcementYellow{
+    background-color: #756C08;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#756C08', endColorstr='#5D5607'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#756C08), to(#5D5607)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #756C08,  #5D5607); /* for firefox 3.6+ */
+}
+
+.announcement a.linkYellow{
+    background:#4B4506    ;
+    -moz-box-shadow: 0px 2px rgba(255,255,255,0.2);
+    -webkit-box-shadow: 0px 2px rgba(255,255,255,0.2);
+    border:solid 1px #5C5506;
+}
+.announcementRed{
+    background-color: #750A07;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#750A07', endColorstr='#5D0906'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#750A07), to(#5D0906)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #750A07,  #5D0906); /* for firefox 3.6+ */
+}
+.announcement a.linkRed{
+    background:#4B0705;
+    -moz-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    -webkit-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    border:solid 1px #5C0705;
+}
+
+.announcementGreen{
+    background-color: #2E753F;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2E753F', endColorstr='#255D33'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#2E753F), to(#255D33)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #2E753F,  #255D33); /* for firefox 3.6+ */
+}
+.announcement a.linkGreen{
+    background:#1E4B29;
+    -moz-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    -webkit-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    border:solid 1px #245C31;
+}
+.announcementBlue{
+    background-color: #115475;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#115475', endColorstr='#0E425D'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#115475), to(#0E425D)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #115475,  #0E425D); /* for firefox 3.6+ */
+}
+.announcement a.linkBlue{
+    background:#0B364B;
+    -moz-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    -webkit-box-shadow: 0px 2px rgba(117,10,7,0.2);
+    border:solid 1px #0D425C;
+}
+
+@font-face {
+    font-family: 'WebSymbolsRegular';
+    src: url('websymbols/websymbols-regular-webfont.eot');
+    src: url('websymbols/websymbols-regular-webfont.eot?#iefix') format('embedded-opentype'),
+        url('websymbols/websymbols-regular-webfont.woff') format('woff'),
+        url('websymbols/websymbols-regular-webfont.ttf') format('truetype'),
+        url('websymbols/websymbols-regular-webfont.svg#WebSymbolsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ca-menu{
+    padding: 0;
+    margin: 00px auto;
+
+}
+
+.ca-menu ul{padding:0; margin:0;}
+.ca-menu li{
+    width: 223px;
+    height: 100px;
+    overflow: hidden;
+    position: relative;
+    
+    float: left;
+    border: 5px solid #fff;
+    background: #990C00;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    margin-right: 6px;
+    transition: all 300ms linear;
+    background: #990c00; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #990c00 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#990c00), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg, #990c00 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #990c00 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #990c00 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+    background: linear-gradient(135deg, #990c00 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#990c00', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.ca-menu li:last-child{
+    margin-right: 0px;
+}
+.ca-menu a{text-decoration: none;}
+.ca-icon{
+    font-family: 'WebSymbolsRegular', cursive;    color: #fff;
+    font-size: 90px;
+    display:none;
+    text-shadow: 0px 0px 20px #900;
+    line-height: 120px;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+
+    -webkit-transition: all 200ms linear;
+}
+.ca-content{
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 50%;
+    top: 0%;
+}
+
+.ca-main{
+    font-size: 24px;
+    color: #490400;
+    opacity: 0.8;
+    text-align: center;
+    transition: all 200ms linear;
+    padding:0 15px;
+    color:#fff;
+}
+.ca-sub{
+    text-align:center;
+    font-size: 12px;
+    color: #fff;
+    line-height: 12px;
+    opacity: 0.8;
+    -webkit-transition: all 200ms linear;
+    color: #f0f0f0;
+    text-shadow: 12px 12px 4px ##000000;
+filter: dropshadow(color=##000000, offx=12, offy=12);
+}
+
+.ca-menu li:hover{
+    background-color: #fff;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+.ca-menu li:hover .ca-icon{
+    text-shadow: 1px 0px 1px rgba(0,0,0,0.7);
+    color: transparent;
+
+    -webkit-transform: rotate(20deg);
+
+}
+.ca-menu li:hover .ca-main{
+    color: #000;
+    -webkit-animation: moveFromLeft 300ms ease;
+}
+.ca-menu li:hover .ca-sub{
+    color: #000;
+    -webkit-animation: moveFromRight 500ms ease;
+}
+
+@-webkit-keyframes moveFromLeft{
+    from {
+    -webkit-transform: translateX(-100%);
+}
+to {
+    -webkit-transform: translateX(0%);
+}
+}
+@-moz-keyframes moveFromLeft{
+    from {
+    -moz-transform: translateX(-100%);
+}
+to {
+    -moz-transform: translateX(0%);
+}
+}
+@-ms-keyframes moveFromLeft{
+    from {
+    -ms-transform: translateX(-100%);
+}
+to {
+    -ms-transform: translateX(0%);
+}
+}
+@-webkit-keyframes moveFromRight{
+    from {
+    -webkit-transform: translateX(100%);
+}
+to {
+    -webkit-transform: translateX(0%);
+}
+}
+@-moz-keyframes moveFromRight{
+    from {
+    -moz-transform: translateX(100%);
+}
+to {
+    -moz-transform: translateX(0%);
+}
+}
+@-ms-keyframes moveFromRight{
+    from {
+    -ms-transform: translateX(100%);
+}
+to {
+    -ms-transform: translateX(0%);
+}
+}
+
+
+
+
+
+#web
+{	
+    background-color: #fff;
+
+    background-image: url(../webImages/webBackground.jpg);
+    background-repeat: repeat-x;
+    clear: both;
+    display: table;
+
+    padding-bottom: 30px;
+    padding-top: 0px;
+    text-align: left;
+    width: 958px;
+    border-left:1px solid #bbb;
+    border-right:1px solid #bbb;
+
+
+}
+#beadcrumbs{
+    padding-left:10px;}
+#bottomBackground
+{
+    background-image: url(../webImages/webBottomBackground.jpg);
+    background-repeat: repeat-x;
+    height: 10px;
+    margin: 0px;
+}
+#leftContainer
+{	
+    border-right: 1px solid #ddd;
+    float: left;
+    margin-right: 10px;
+    width: 600px;
+    padding-top:5px;
+
+
+
+}
+.sectionTop{ background-image:url(../webImages/sectionTop.png); width:605px; height:19px;}
+.newHeader{background-image:url(../webImages/newHeader.png); padding:3px 13px; height:75px; margin:0; background-color:#fff;}
+.newContainer
+{ margin:0; margin-bottom:0px;  background-repeat:repeat-x; 	
+  padding: 2px 10px 0px 10px;
+  background-color:#aaf6f6f6;
+  width: 580px;
+}
+.Container
+{ margin:0; background-image:url(../webImages/newBaackground.png); background-repeat:repeat-x; 	
+  padding: 5px 5px 5px 10px;background-color:#f3f3f3;
+  width: 585px;
+}
+.newDetailContainer
+{	border:1px solid #666;
+  padding:5px;
+  margin-left: 10px;
+  width: 590px;
+}
+.newTitle
+{ 	
+   color: #333;
+   font-size: 18px;
+   font-weight: bolder;
+   margin: 0px;
+   line-height:18px;
+}
+
+.newsInfo{ float:left;  font-family:Arial; font-size:10px; padding:3px 15px 3px 3px; background-image:url(http://futsal.cat/webImages/newsVisitsBackground.png); background-repeat:no-repeat; color:#000;}
+.newsNum{color:#fff;}
+.newDetailTitle
+{ 	font-family:Georgia, "Times New Roman", Times, serif;
+   color: #333;
+   font-size: 18px;
+   font-weight: bolder;
+   margin: 0px;
+   border-bottom:1px dotted;
+}
+.newTitle a
+{
+    color: #333;
+}
+.newDate
+{ float:left;  background-image:url(../webImages/calendar.png); background-repeat:no-repeat;
+  font-size: 11px;
+  width:64px;
+  height:64px;
+  text-align:center;
+  padding:4px 10px 0px 00px;
+  line-height:15px;
+
+  font-weight: normal;
+  margin: 0px;
+
+  margin-top: 0px;
+
+}
+.mes{font-size:12px; font-weight:bold;color:#fff;}
+.dia{font-size:25px; font-weight:bold;}
+.tags{font-size:14px; font-weight:bold; color:#900;}
+.news_image
+{
+    background-color: #ddd;
+    margin-top: 5px;
+    width: 466px;
+
+}
+.news_image img
+{
+    background-color: #fff;
+    border: 1px solid #696969;
+    float: none;
+    margin: -3px 3px 3px -3px;
+    padding: 2px;
+    position: relative;
+}
+.newText
+{
+    float: left;
+    margin-top: 5px;
+    text-align: justify;
+    width: 420px;
+}
+.newFullText
+{
+    font-family:Lato,Ruda,"Helvetica Neue", Arial;
+    color:#373737;
+    margin-top: 10px;
+    text-align: justify;
+    padding-bottom:10px;
+    font-size:14px;
+    line-height: 20px;
+}
+
+
+.newsOptions{
+    font-size:12px;}
+.newImage
+{
+    float: left;
+    margin-top: 0px;
+    padding: 10px 10px 0px 10px;
+    vertical-align: text-top;
+    width: 180px;
+    cursor:pointer;
+}
+
+
+.newFullImage
+{	clear:both;
+  text-align:center;
+  margin-top: 0px;
+  padding:10px;
+  width: 580px;
+  background-color:#efefef;
+  border-bottom:1px solid #999;
+
+}
+.newSpacer
+{
+    border-top:2px solid #ccc;
+    border-bottom: 2px solid #ddd;
+    clear: both;
+    padding:0 5px;
+    margin:auto;
+    margin-bottom: 15px;
+
+    height:0px;
+
+}
+.newsPaginator, .thumbsPerPage
+{	color:#333;
+
+  font-size: 22px;
+  height: 14px;
+  padding: 1px 6px 0px 6px;
+  text-align: right;
+  width: 578px;
+
+  font-weight:bold;
+}
+.newsPaginator a ,  .thumbsPerPage a{
+    color: #333;
+    background-image: url(../webImages/paginatorBackground.jpg);
+    border:1px solid #bbb;
+    padding:2px 8px;
+}
+
+.newsPaginator .actiu {
+    background-image: url(../webImages/paginatorBackgroundActiu.jpg);
+    color: #FFFFFF;
+    padding: 3px 8px;border:1px solid #bbb;
+}
+
+.totalPages{color: #333;
+            font-size: 20px;
+            height: 14px;
+            padding: 1px 6px 0px 6px;
+            text-align: right;
+            width: 578px;
+            font-weight: bold;
+}
+.newsButtonLine,.attachmentsDiv 
+{ display:table;	
+  font-size:10px;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  /*background-color: #1a1a1a;*/
+  /*background-color:#CCCCCC;*/
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  clear: both;
+  margin-top: 0px;
+  margin-left:10px;
+  padding: 3px;
+  width:585px;
+}
+.newsButtonLine ul{margin:0; padding:0px;}
+.newsButtonLine li{list-style:none; float:left; margin:0;margin-right:3px; padding:0px; }
+.newsButtonLine img{vertical-align:bottom;}
+#newsShare{width:auto; float:left; border-right:1px solid #ddd; padding:3px; }
+#newsVote{font-size:10px;width:auto; height:6px; float:left; border-right:1px solid #ddd; padding:3px; vertical-align:middle;}
+#newsVote img, #newsTranslate img{vertical-align:middle;}
+#newsTranslate ul{margin:0; padding:0; margin-left:6px; cursor:pointer;}
+
+.commentsNotLogged{padding:6px; font-size:14px; font-weight:bold;}
+.commentsNotLogged a{color:#c00;}
+
+.commentContainer{ padding:10px; display:table; width:580px;}
+.commentAvatar{ font-weight:bold; font-size:14px; color:#c00; float:left; width:120px;}
+.commentText{ text-align:justify; font-size:11px; border:0px solid #ddd; width:440px; float:left; padding:5px; }
+.commentDate{font-size:10px; text-align:right; font-style:italic; font-weight:bold; color:#990000;}
+
+.commentsTextArea{ text-align:center;}
+
+.titleList{font-size:17px;}
+.clubsListName,.teamsListName{border-bottom: 1px dotted #ddd; font-weight: bold; padding:6px; font-size:12px; width:50%;float:left;}
+.clubsListCity,.teamsListDivision{border-bottom: 1px dotted #ddd; font-weight: bold; padding:6px; font-size:12px; width:35%;float:left;}
+.clubsListInfo{text-align:right;border-bottom: 1px dotted #ddd; font-weight: bold; padding:5px; font-size:12px; width:5%;float:left;}
+
+.clubDataContainer{ margin:5px;padding:10px; font-size:12px; background-color: #f3f3f3; color:#000;}
+#rightContainer
+{	
+    padding-left:3px;
+    padding-top:5px;
+    float: left;
+    width: 330px;
+}
+
+#sectionTitle, #sectionTitlePrint
+{	z-index:1;	
+
+  background-repeat: repeat;
+
+  height: 10px;
+  margin: 0px;
+  margin-bottom: 0px;
+  width:595px;
+  padding-top: 20px;
+  padding-left:0px;
+  color:#999;
+  font-size:40px;
+  color:#424242;
+
+
+
+  border-boattom:1px solid #aaa;
+
+}
+#sectionTitlePrint{width:750px;}
+
+.subsectionTitle
+{
+    background-image: url(../webImages/smallTitleBackground.png);
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family: Arial,Verdana;
+    font-size: 17px;
+    font-weight: bold;
+    height: 28px;
+    margin: 0px;
+    margin-bottom: 3px;
+    padding-left: 10px;
+    padding-top: 2px;
+    width: 310px;
+}
+.estatusContainer
+{
+    padding: 15px;
+}
+.rightContainerShadow{
+    width:320px; background-image:url(../webImages/rightContainerShadow.png); background-repeat:no-repeat;}
+
+#destacatsContainer, #calendarContainer, #sponsorsContainer,#loginContainer,#resultsContainer,#commentsContainer
+{	/*background-color:#f0f0e4;*/
+  width: 310px;
+  padding:6px;
+  border:1px solid #ddd;
+  border-top:0;
+  margin-left:5px;
+  margin-bottom:5px;
+  background-image:url(../webImages/widgetBackground.png); background-repeat:repeat-x;
+}
+#classificationWidget
+{	/*background-color:#f0f0e4;*/
+  width: 322px;
+  padding:6px 0px;
+  padding-bottom:0px;
+  border:1px solid #ddd;
+  border-top:0;
+  margin-left:5px;
+  margin-bottom:5px;
+
+  background-image:url(../webImages/widgetBackground.png); background-repeat:repeat-x;
+}
+
+.classificationWidgetActive{background-image:url(../webImages/classificationWidgetActive.png); height:15px; font-size:12px; padding:5px; font-weight:bold; border-top:1px solid #bbb;border-bottom:1px solid #bbb; margin-top:1px; color:#fff;}
+.classificationWidgetPassive{background-image:url(../webImages/classificationWidgetPassive.png); height:15px; font-size:12px; padding:5px; font-weight:bold; border-top:1px solid #999;border-bottom:1px solid #999; margin-top:2px;}
+
+.calendarWhite{
+    background-image:url(../webImages/calendarWhiteBackground.png); color:#990000;
+    border:1px solid #999;
+}
+.calendarRed{
+    background-image:url(../webImages/calendarRedBackground.png); color:#fff; border:1px solid #000;
+}
+.calendarGrey{
+    background-image:url(../webImages/calendarGreyBackground.png);border:1px solid #999;
+}
+
+.calendarRed a{color:#fff; }
+#noticiesWidget{
+    padding:0px;
+    padding-left:5px;
+    width: 322px;
+
+
+    margin-bottom:5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#newsWidgetContainer{  background-color:#f0f0f0; padding:6px; clear:both;border:1px solid #ddd; border-top:0;}
+#noticiesWidget a{ color:#2c64aa; font-weight:bold; font-size:11px;}
+.activeTab{font-size:10px;width:auto; font-weight:bold; cursor:pointer; float:left; border:1px solid #ddd; border-bottom:0; margin-right:2px; background-color:#f0f0f0; padding:6px; background-image:}
+.inactiveTab{font-size:10px;width:auto;font-weight:bold; cursor:pointer; float:left; padding:6px; border:1px solid #ddd; border-bottom:0;margin-right:2px; color:#bbb; background-color:#fff}
+#loginContainer h1,#destacatsContainer h1, #calendarContainer h1 , #resultsContainer h1,#noticiesWidget h1,#sponsorsContainer h1,#classificationWidget h1,#commentsContainer h1
+{ 
+    margin:0px;
+    padding:6px;
+    font-size:15px;
+    font-weight:bold;
+    border-bottom:1px solid #ddd;
+    text-transform:uppercase;
+    color:#333;
+    cue-before:"A";
+}
+
+#destacatsContainer h2, #calendarContainer h2 , #resultsContainer h2
+{ 
+    margin:0px;
+    padding:3px;
+    font-size:14px;
+    font-weight:bold;
+    color:#999;
+
+}
+#commentsContainer .comment{font-size:11px; font-weight:bold; font-style:oblique; padding:3px; color:#555;}
+#commentsContainer .commentLink{font-size:12px; font-weight:bold; font-style:oblique; color:#990000;}
+#commentsContainer .commentName{font-size:14px; font-weight:bold;  }
+.footer{background-color:#FFFFFF; letter-spacing:6px;  margin:0px 0px 1px 0px; padding:6px; font-size:3px; text-align:justify; border-left:1px solid #bbb;border-right:1px solid #bbb;}
+.footer2{background-color:#FFFFFF; height:24px;  margin:0px 0px 0px 0px; padding:10px; font-size:9px; text-align:justify; border-left:1px solid #bbb;border-right:1px solid #bbb; vertical-align:bottom; background-image:url(../webImages/newBackground.png); color:#aaa;}
+
+
+#junta{padding:10px;}
+#junta td
+{
+    text-align: left;
+}
+#junta .carrecJunta
+{
+    border-bottom: 1px solid #666;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    font-family:Arial,"Times New Roman", Times, serif;
+    vertical-align: text-top;
+}
+#junta .imatgeJunta
+{
+    width: 100px;
+}
+#junta .nomJunta
+{
+    font-size: 14px;
+    vertical-align: top;
+}
+#historia
+{
+    background-color: #efefef;
+    border: 1px solid;
+    margin: 20px;
+    padding: 10px 10px;
+}
+#mapa
+{
+    float: left;
+    padding: 10px;
+    padding-top: 0px;
+    width: 320px;
+}
+#adreces
+{
+    float: left;
+    text-align: justify;
+    width: 250px;
+}
+.image_button
+{
+    cursor: pointer;
+}
+#imageContainer,#fileContainer
+{
+    float: left;
+    height: 300px;
+    overflow: auto;
+    width: 300px;
+}
+.filesMenu
+{
+    background-color: #CCCCCC;
+    border-bottom: 1px solid #999;
+    cursor: pointer;
+}
+#popUpTitle
+{
+    float: left;
+    font-weight: bold;
+    width: 50%;
+}
+#popUpTools
+{
+    float: left;
+    text-align: right;
+    width: 49%;
+}
+
+/*Competicio*/
+#taulaclassificacio td{font-size:11px; font-family:Ruda,Arial,Helvetica, sans-serif; }
+#taulaclassificacio th, #taulajornada th{ background-image:url(../webImages/taulaclassificacioBackground.png); color:#fff; height:23px; background-color:#c00; font-weight:bold;text-align:left;font-size:11px; border-bottom:1px solid #900;  padding-left:3px; }
+
+#taulaclassificacio .td,.punts,.equip, .clasif,#taulajornada .td{  padding:10px;  border-right:0px solid #ddd; text-align:left; color:#000; border-bottom:1px solid #ddd; font-size:11px;}
+#taulajornada .tdTop{ background-color:#bbb; color:#fff; font-weight:bold; font-size:14px; padding:3px; }
+
+#taulaclassificacio .punts{font-weight:bold;}
+#taulaclassificacio .equip,#taulajornada .equip{text-align:left;font-size:12px; font-weight: bold;}
+#taulaclassificacio .equip a:hover ,#taulajornada .equip a:hover{color:#600;}
+
+#taulaclassificacio .clasif, #taulajornada .clasif{ width:40px; height:25px; text-align:center; font-weight: bold;}
+
+#nextRoundWidget .td{border-bottom:1px solid; font-size:10px; width:50%;}
+
+
+/*COPA*/
+
+#rounds{
+    border-bottom: 1px solid #999;
+    background-image: linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -o-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.41, rgb(239,239,239)),
+        color-stop(1, rgb(255,255,255))
+        );
+
+
+}
+#rounds .cupRound{ 
+    float:left;  font-family: arial; font-size:12px; font-weight: bold; padding:7px; padding:1px; padding-right:45px; padding-right: 11px; margin-left:10px;  padding-left:15px; background-image: url("http://www.futsal.cat/webImages/cupRoundasArrow.png"); background-image: linear-gradient(bottom, rgb(179,179,175) 41%, rgb(255,255,255) 71%);
+
+    background-repeat: no-repeat; background-position: right;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #ddd;
+    color:#242424;
+    margin: 3px ;
+}
+#rounds .selected{  color:#900; background-color:#aaa; }
+#rounds .selected a{color:#900;}
+
+.cupMatchDate{
+    margin-top:10px;
+    font-size:11px;
+    font-family: arial;
+    line-height: 28px;
+    font-weight: bold;
+    padding:1px 13px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+    background-image: linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -o-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(239,239,239) 41%, rgb(255,255,255) 100%);
+
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.41, rgb(239,239,239)),
+        color-stop(1, rgb(255,255,255))
+        );
+}
+.cupMatch{ border-bottom:1px solid #ccc; padding:10px;}
+.cupMatchOptions{ text-align: right; color:#2a4982; font-size: 11px; font-family: arial, verdana, sans-serif; line-height: 16px; margin-bottom: 30px;}
+.cupMatchResult{ width: 500px; margin:auto; }
+
+.cupMatchLocal, .cupMatchVisitor{ font-family:Arial; font-size:18px; line-height:16px;}
+.cupMatchLocal, .cupMatchVisitor{width:140px; float:left;}
+.cupMatchLocal{text-align: right;}
+.cupMatchLocalImage, .cupMatchVisitorImage{ width:40px; float:left; margin:0 10px;}
+.cupMatchScore{width:100px; float:left;  text-align: center;font-size:24px; line-height: 16px; color:#404040; font-weight: bold; }
+.cupMatchStadium{font-size:10px; color:#8c8c8c; font-family: arial; width:500px; margin:auto; text-align: center; margin-top:10px;}
+
+.imgtable_div
+{
+    background-color: #ddd;
+    float: left;
+}
+.imgtable_div img
+{
+    background-color: #fff;
+    border: 1px solid #a9a9a9;
+    display: block;
+    margin: -3px 3px 3px -3px;
+    padding: 4px;
+    position: relative;
+}
+
+
+ul.topnav {
+    margin:0;
+    list-style: none;
+    padding: 0 20px;
+    margin: 0;
+    float: left;
+    width: 919px;
+
+    font-size: 1.2em;
+    background: url("http://www.futsal.cat/topnav_bg.png") repeat-x;
+}
+ul.topnav li {
+    cursor:pointer;
+    float: left;
+    margin: 0;
+    padding: 0 15px 0 0;
+    position: relative; /*--Declare X and Y axis base for sub navigation--*/
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#fc0;
+
+    color: #fff;
+    display: block;
+    text-decoration: none;
+
+}
+ul.topnav li a{
+
+    padding: 10px 5px;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    float: left;
+
+}
+ul.topnav li a:hover{
+    background: url("http://www.futsal.cat/topnav_hover.png") no-repeat center top;
+}
+ul.topnav li span { /*--Drop down trigger styles--*/
+                    width: 17px;
+                    height: 35px;
+                    float: left;
+                    background: url("http://www.futsal.cat/subnav_btn.gif") no-repeat center top;
+}
+ul.topnav li span:hover {background-position: center bottom; cursor: pointer;} /*--Hover effect for trigger--*/
+ul.topnav li ul.subnav {z-index:10;
+                        list-style: none;
+                        position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+                        left: 0; top: 35px;
+                        background: #333;
+                        margin: 0; padding: 0;
+                        display: none;
+                        float: left;
+                        width: 234px;
+                        border: 1px solid #111;
+}
+ul.topnav li ul.floatedUl{width:702px; background: #333;}
+ul.topnav li ul.subnav li{
+    margin: 0; padding: 0;
+    border-top: 1px solid #252525; /*--Create bevel effect--*/
+    border-bottom: 1px solid #444; /*--Create bevel effect--*/
+
+    width: 230px;
+    float:left;
+}
+
+ul.topnav li ul.floatedUl li{
+    margin: 0; padding: 0;
+    border-top: 1px solid #252525; /*--Create bevel effect--*/
+    border-bottom: 1px solid #444; /*--Create bevel effect--*/
+    background-color:#ff0;
+    width: 230px;
+    float:left;
+}
+
+html ul.topnav li ul.subnav li a {
+    padding: 10px 5px;
+    float: left;
+    width: 210px;
+    background: #333 url("http://www.futsal.cat/dropdown_linkbg.gif") no-repeat 10px center;
+    padding-left: 20px;
+    color:#fff;
+}
+
+ul.topnav li ul.subnav ul.subnav2 {
+    list-style: none;
+    position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+    left: 236px; top: -2px;
+    background: #333;
+    margin: 0; padding: 0;
+    display:none;
+    float: left;
+    width: 235px;
+    border: 1px solid #111;
+
+}
+ul.topnav li ul.subnav ul.subnav3 {
+    list-style: none;
+    position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+    left: 236px; top: -2px;
+    background: #333;
+    margin: 0; padding: 0;
+    display:none;
+    float: left;
+    width: 702px;
+    border: 1px solid #111;
+
+}
+html ul.topnav li ul.subnav li a:hover { /*--Hover effect for subnav links--*/
+                                         background: #222 url("http://www.futsal.cat/dropdown_linkbg.gif") no-repeat 10px center;
+}
+
+ul.topnav li:hover>ul{display:block;}
+ul.topnav li ul.subnav li:hover>ul{display:block;}
+
+.zebra1{background-color:#f3f3f3;}
+.zebra2{background-color:#FAFAFA;}

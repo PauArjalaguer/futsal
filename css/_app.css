@@ -1,0 +1,120 @@
+body{color:#494949; font-family: "Open Sans Condensed";  }
+h3{font-size:19px; font-weight: bold;}
+h4{font-size:16px;}
+label{color:#fff; font-weight:bold;}
+#logos, #logos_s{ background-image: url("https://farm5.staticflickr.com/4558/38528350942_dec6700cb0_h_d.jpg"); background-size: 100%; background-repeat: no-repeat;  border-bottom:3px solid #900; }
+#logos_s{ background-position:0% 10%;}
+#socialLogos ul li {float:right;}
+@media (min-width: 1122px) {
+    #logos{min-height: 420px;}
+    #main-menu{margin-top:40px;}
+}
+#logos div, #logos_s div{border:0px solid;}
+#logos #address, #logos_s #address{color:#fff; padding-top:11px;}
+
+#logos #logo {padding-top: 40px;}
+#logos_s #logo {padding-top:5px;}
+#logos i, #logos_s i{ font-size:40px; color:#fff;}
+
+#logos ul{ list-style: none;}
+#logos_s ul{ list-style: none;}
+#logos li, #logos_s li{ float:left; margin:10px;}
+#logo img{padding-bottom: 20px;}
+#main-menu {height:69px; background-color: rgba(0,0,0,0.7); width:100%;}
+#main-menu ul{padding:0; margin:0; height:100%; width:100%;}
+#main-menu li{padding:0; margin:0; height:100%; }
+#main-menu a{ text-transform: uppercase; color:#fff; font-size:20px; padding:24px 18px;  font-weight: bold; border-top:1px solid #212121;  }
+#main-menu  .actiu{ background-color: rgba(120,0,0,0.6);}
+
+@media (max-width: 38em) {
+    #address {
+        display: none;
+    }
+    #logo img,#logos_s img{width:120px;}
+    #logos i, #logos_s i{font-size:20px;}
+    #logos #socialLogos, #logos_s #socialLogos {text-align: right;}
+    #scorers{text-align:center;}
+    //#scorers div{width:440px;}
+    #scorers img{ width:440px; height:440px; text-align: center; }
+    #main-menu{background-color:transparent; height:100%;width:100%;}
+    #main-menu li{float:none;}
+    #main-menu a{background-color: rgba(0,0,0,0.7); }
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { }
+#content{margin-top:20px;}
+#content h2, h2{font-size:23px; color:#aa4243; text-transform: uppercase; font-family: "Open Sans Condensed"; font-weight:bold;}
+.newsThumbnail{margin-top:30px;}
+.newsThumbnail img{width: 350px; height: 175px;}
+.newsHeader h3{line-height: 19px; margin:10px 0px; min-height:40px;}
+.newsHeader h3 a{font-size:19px; color:#363636; font-weight: bold; text-transform: uppercase; line-height: 11px;}
+.newsInfoDate ,.newsContent{font-family: "Open Sans"; font-size:13px; color:#bababa;}
+.newsInfoDateFull {font-family: "Open Sans"; font-size:13px;  color:#bababa; padding:2px 0px 3px 0px; border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;}
+.newsContent{max-width: 350px; }
+.read-more{font-family: "Open Sans"; font-size:13px; color:#aa4243; font-weight: bold;}
+.relatedNews{ padding-top: 0px; margin-top:0px;}
+
+.classificationTableHeadTeam, .classificationTableHeadScore{font-family: "Open Sans"; font-size:14px; background-color: #212121; padding:8px 5px; color:#fff; font-weight: bold; text-transform: uppercase; text-align: left;}
+.classificationTableHeadTeam{width:169px;}
+.classificationTableRow{font-family: "Open Sans"; font-size:13px; text-align: center; height:30px;}
+.classificationTableRowTeam{text-align: left; white-space: nowrap;}
+.classificationTableTeamCount,.classificationTableTeamFlag{margin-right:10px;}
+
+.classificationTableRowPoints{font-weight: bold;}
+.classificationTableReadMore{ background-color: #aa4243; font-family: "Open Sans"; font-size: 13px; color:#fff; font-weight: bold; text-transform: uppercase; text-align: center; border-bottom: 3px solid #8a4545;}
+.twitter-timeline{width:100%;}
+
+#scorers, #footer{ margin-top:40px; background-color: #212121; padding:40px 0px; color:#fff;}
+#footer img{ -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);}
+#footer img:hover{ -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(50%);}
+#scorers img{ width:140px; height:240px;}
+#scorers h2{color:#fff;}
+#scorers .scorersCount{ font-family: "Open Sans Condensed"; font-weight:bold; font-size: 30px; color:#fff;}
+.scorersPlayerInfoCount{width:18%; float:left;}
+.scorersPlayerInfoName{width:77%; float:left; color:#fff; padding-top:10px; line-height: 13.4px;}
+.scorersName{font-family: "Open Sans"; font-size:12px; color:#fff; font-weight: bold; text-transform: uppercase;  }
+.scorersTeam{font-family: "Open Sans"; font-size:11px; color:#ddd;}
+#results{ margin-top: 40px;}
+.matchesTableDate, .matchesTableTeam, .matchesTableComplex{font-family: "Open Sans"; font-size:14px;  color:#888; padding:20px 30px;}
+.matchesTableDate{ font-style: italic;}
+.matchesTableTeam{font-weight: bold; white-space: nowrap; text-transform: uppercase;}
+.matchesTableComplex{padding:5px 15px;}
+.matchesTableComplexName{ text-transform: uppercase; }
+.matchesTableComplexAddress{ text-style:italic; font-size:12px;}
+
+.clubLogo{ width:160px; float:left; margin-right:45px;}
+.clubLogo img{width:160px;}
+.clubTitle{float:left; padding-top:15px; }
+.clubTitle h1{border-bottom:1px solid #900; text-transform:uppercase;padding:0px;margin:0;}
+.clubCode{font-size:24px;}
+.tabs{border:0;}
+.tabs-title > a:hover {
+    background: #e0e0e0; }
+.tabs-title > a:focus, .tabs-title > a[aria-selected='true']{
+    background-color: #900;border-radius:5px 5px 0 0;
+}
+.tabs-title a{font-size:24px; color:#fff; font-weight: bold;  }
+.tabs-title{  margin-right:3px; background-color: #e6e6e6;border-radius:5px 5px 0 0;  }
+
+.playerImage{ width:130px; float:left; margin-right:45px;}
+.playerImage img{width:130px;}
+.playerTitle{float:left; padding-top:15px; }
+.playerTitle h1{border-bottom:1px solid #900; text-transform:uppercase;padding:0px;margin:0;}
+.playerSubTitle{font-size:24px;}
+
+
+/*ogin*/
+.log-in-form {
+    margin-top:auto;
+    margin-bottom:auto;
+    border: 1px solid #cacaca;
+    padding: 1rem;
+    border-radius: 0;
+}
+
+
+
+
+
+

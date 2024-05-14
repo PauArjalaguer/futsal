@@ -1,0 +1,2 @@
+Filetype=DNI
+SQL=Update players set DNIscan='15363_DNI_1491578468.jpg' where id=15363

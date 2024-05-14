@@ -1,0 +1,77 @@
+php_value upload_max_filesize 100M
+php_value post_max_size 100M
+php_value max_execution_time 1000
+php_value max_input_time 1000
+php_value memory_limit 120M
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^noticies/(.+) index.php?f=news_inicial&p=$1
+RewriteRule ^noticies/categoria/(.+) index.php?f=news_inicial&tag=$1
+RewriteRule ^categoria/(.+)/(.+) index.php?f=news_inicial&tag=$1&p=$2
+RewriteRule ^categoria/(.+) index.php?f=news_inicial&tag=$1
+RewriteRule ^noticia/(.+) index.php?f=news_detail&title=$1
+RewriteRule ^junta index.php?f=junta
+RewriteRule ^estatuts index.php?f=estatuts
+RewriteRule ^historia index.php?f=historiaFCFS
+RewriteRule ^delegacions index.php?f=delegacions
+RewriteRule ^esport/(.+) index.php?f=futsal&title=$1
+RewriteRule ^defensordelclub index.php?f=defensor
+
+RewriteRule ^competicio index.php?f=competicions
+RewriteRule ^divisio/(.+)/(.+) index.php?f=competicio&title=$1&round=$2
+RewriteRule ^divisio/(.+) index.php?f=competicio&title=$1
+RewriteRule ^playoff/(.+) index.php?f=playoff&title=$1
+RewriteRule ^copa/(.+)/(.+) index.php?f=copa&title=$1&round=$2
+RewriteRule ^copa/(.+) index.php?f=copa&title=$1
+RewriteRule ^acta/(.+) index2.php?f=acta&idMatch=$1
+
+
+RewriteRule ^clubs index.php?f=clubs
+RewriteRule ^club/(.+) index.php?f=club&idClub=$1
+RewriteRule ^equip/(.+) index.php?f=team&idTeam=$1
+RewriteRule ^jugador/(.+) index.php?f=player&idPlayer=$1
+
+
+RewriteRule ^seleccio/(.+) index.php?f=seleccions&title=$1
+
+RewriteRule ^calendari/dia/(.+) index.php?f=agenda&day=$1
+RewriteRule ^calendari/(.+) index.php?f=agenda&p=$1
+RewriteRule ^calendari index.php?f=agenda
+
+RewriteRule ^documents/(.+)/(.+) index.php?f=documents&title=$1&p=$2
+RewriteRule ^documents/(.+) index.php?f=documents&title=$1
+
+RewriteRule ^imatges/etiqueta/(.+)/(.+) index2.php?f=fotos&tag=$1&page=$2
+RewriteRule ^imatges/etiqueta/(.+) index2.php?f=fotos&tag=$1
+
+RewriteRule ^imatges/photoset/(.+)/(.+) index2.php?f=fotos&photoset=$1&page=$2
+RewriteRule ^imatges/photoset/(.+) index2.php?f=fotos&photoset=$1
+
+RewriteRule ^imatges/(.+) index2.php?f=fotos&page=$1
+RewriteRule ^imatges index2.php?f=fotos
+
+RewriteRule ^imatge/(.+) index2.php?f=image&photo=$1
+RewriteRule ^videos/(.+) index.php?f=videos&p=$1
+RewriteRule ^videos index.php?f=videos
+RewriteRule ^clip/(.+) index2.php?f=video&id=$1
+
+RewriteRule ^inscripcio2011 index.php?f=inscripcio2011
+RewriteRule ^carta_president index.php?f=cartapresident
+
+
+
+RewriteRule ^usuari/login index.php?f=userLogin
+RewriteRule ^usuari/registre index.php?f=userRegister
+RewriteRule ^usuari/registrat index.php?f=userRegistered
+RewriteRule ^usuari/edita/(.+) index.php?f=userEdit&result=$1
+RewriteRule ^usuari/edita index.php?f=userEdit
+
+
+
+
+
+
+
+

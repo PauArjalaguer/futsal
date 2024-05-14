@@ -1,0 +1,8 @@
+Arxiu=../../images/dynamic/playersImages/15363_DNI_1491578468.jpg--
+1491578468Ample: 639 Alt: 405 Tipus= 2--
+Relacio: 1.5777777777778
+320x202
+GENERA IMATGE GRAN
+imagen original
+Resource id #14
+320x202

@@ -1,0 +1,164 @@
+body,html{font-family: arial; font-size:14px; padding:0; margin: 0; width:100%; height:100%; color:#ddd;background-color: #d0d0d0;}
+a{color:#ddd;}
+h1{font-size:16px;}
+h2{font-size:14px; padding:0; margin:0;}
+
+
+.pointer{cursor:pointer;}
+#alpha{
+    display: none;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: #424242;
+    z-index:1001;
+    -moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+}
+
+#modal {
+    display: none;
+    position: absolute;
+    top: 10px;
+   
+    width: 50%;
+    height: 50%;
+
+    background-color: #fff;
+    z-index:1002;
+    overflow: auto;
+    padding:5px;
+    -webkit-box-shadow: 0px 0px 5px 0px #0a0608;
+    -moz-box-shadow: 0px 0px 5px 0px #0a0608;
+    box-shadow: 0px 0px 5px 0px #0a0608;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    margin:auto;
+}
+
+#left{width:240px; float:left; height:100%; background-image: url("../images/leftBackground.png"); padding:10px 0px 0 10px;display:table;}
+#loginInfo{text-align: right;padding-right:10px; margin-top:10px; font-size:11px;}
+
+#nav{ margin-top:40px;}
+#nav ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    margin-left:8px;
+    display: block;
+}
+#nav ul li{
+
+    list-style: none;
+    padding-bottom: 0px;
+    text-align: right;
+    margin-bottom: 5px;}
+#nav ul li a.nav-top-item{
+    background: transparent url('../images/nav-top-item.png') center no-repeat; /* Background image for default color scheme - green */
+    width:227px; height:15px;
+    padding: 10px 5px 10px 0;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    display: block;
+    text-decoration: none; }
+/*#nav ul li:hover >ul{display:block; -webkit-transition: all 1s ease-in-out;
+    }*/
+
+#nav ul li a.current{ background: transparent url('../images/nav-top-item-current.png') center no-repeat; /* Background image for default color scheme - green */}
+
+#nav ul li ul{margin-top:10px; display:block;  }
+#nav ul li ul li{font-size:12px; padding:5px 0; padding-right:0px; cursor:pointer; text-align:left; display: block;}
+.listCurrent{background-image: url("../images/listCurrent.png"); background-position: center right; background-repeat: no-repeat; padding-left:5px; color:#999; }
+
+
+#right{float:left; height:100%;width:750px; max-width: 1200px;background-image: url("../images/rightBackground.png"); background-position: left top; background-repeat: no-repeat; border-right:0px solid #f00; }
+
+#rightContent{padding:30px; color:#242424;}
+
+.contentBox{ }
+.contentBoxHalf{width:45%;float:left; margin-right: 5%;}
+.contentBoxHeader{background-color: #e7e7e7; padding:5px; border:1px solid #a7a7a7;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;border-top-right-radius: 5px;border-top-left-radius: 5px;}
+.contentBoxHeader h2{padding-left:10px;}
+.contentBoxContent{padding:20px; border:1px solid #a7a7a7; border-top:0px;background-color: #fff;}
+.contentBoxSpacer{height:1px; border-top:1px solid #e7e7e7; border-bottom: 1px solid #a7a7a7;margin:5px 0; padding:0 5px; }
+#playerPictureUpload {color:#bbb; font-size: 12px; text-align:center;}
+#playerPictureUpload a{color:#bbb;}
+.playerCardEditImage{-webkit-box-shadow: 0px 0px 5px 0px #0a0608;
+                     -moz-box-shadow: 0px 0px 5px 0px #0a0608;
+                     box-shadow: 0px 0px 5px 0px #0a0608;
+                     -webkit-border-radius: 6px;
+                     -moz-border-radius: 6px;
+                     border-radius: 6px;
+                     margin:5px;
+}
+
+
+.playersTable{width:100%;font-size:12px; list-style: none; }
+.playersTable th{background-color:#fff; padding:15px; font-size:14px; font-weight: bold; text-align:left; border-bottom: 1px solid #666;}
+.playersTable td{ padding:15px; font-size:14px;  text-align:left; vertical-align: top;}
+.playersTable td{ font-size:12px; padding:3px;}
+.playersTable .zebra1{background-color:#f3f3f3;}
+.playersTable .zebra2{background-color:#fff;}
+.playersTable .zebra_b1{background-color:#f9f9f9;border-top:1px solid #424242;}
+.playersTable .zebra_b2{background-color:#fcfcfc;border-top:1px solid #424242;}
+
+.playerCardStatus{position: relative;}
+.playerCardStatus span{display:none;}
+.playerCardStatus:hover span{
+    z-index:1009;
+    display: block; /* se fuerza a mostrar el bloque */
+    position: absolute; /* se fuerza a que se ubique en un lugar de la pantalla */
+    bottom:-20px; left:-30px; /* donde va a estar */
+   width:200px; /* el ancho por defecto que va a tener */
+   /* la separación entre el contenido y los bordes */
+ background-color:#D3DFE9;/* el color de fondo por defecto */
+    color: #FFFFFF; /* el color de los textos por defecto */
+    font-size:12px;
+    -webkit-box-shadow: 0 10px 25px rgb(180,180,180);
+    -moz-box-shadow: 0 10px 25px rgb(180,180,180);
+    box-shadow: 0 10px 25px rgb(180,180,180);
+    border:1px solid #f2f2f2;
+    cursor:pointer;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.itemsCheckList{
+    padding:5px;
+    background-color:#D3DFE9;
+    border-bottom:1px solid #BDCBD9;
+    border-top:1px solid #F6F8FA;
+    color:#3F527B;
+    font-weight:bold;
+
+}
+
+.playerNameEditContainer{ display:none;  }
+
+.newPlayerNameInput,.newPlayerNameButton,.playerNameEditInput,.playerNameEditButton, .playerCardEditInput {border:1px solid #e7e7e7; font-size:14px; padding:10px; width:500px;}
+.playerCardEditInput{width:200px;}
+.playerCardEditSelect{background-color: #fff; border: 1px solid #e7e7e7; width:220px;}
+label{font-weight:bold; margin-left: 10px;}
+.newPlayerNameButton,.playerNameEditButton{width:100px; background-color: #a7a7a7; }
+.resultInput{width:30px; text-align: center; border:1px solid #e7e7e7;font-size:14px; padding:5px;}
+.minuteInput{width:30px; height:10px; text-align: center; border:1px solid #f7e7e7;font-size:14px; padding:5px;}
+.cardInput{width:20px; height:10px; text-align: center; border:1px solid #f7e7e7;font-size:14px; padding:5px;}
+
+textarea{ width:95%;}
+
+#suggestions {
+
+    width: 520px;
+    background-color: #fff;
+    position: fixed;
+    padding: 0px;
+    visibility: hidden;
+    border:1px solid #ccc;
+}
+#suggestions .div{padding:10px; color:#424242; border-bottom: 1px solid #ccc; cursor:pointer; }
